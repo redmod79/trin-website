@@ -1,0 +1,15 @@
+# Cross-Testament Parallels
+
+- 1 Cor 8:6 → Mal 2:10 (ot, vocabulary — 'one father/one God created' pattern, but Deut 6:4 LXX (heis theos + heis kyrios) is the stronger verbal parallel)
+- Phil 2:10 → Isa 45:23 (ot, direct quotation — every knee shall bow, every tongue confess; YHWH-exclusive text applied to Christ)
+- Heb 1:10 → Psa 102:25-26 (ot, direct quotation — YHWH creator text transferred to the Son; 'Thou, Lord, hast laid the foundation')
+- Rev 1:17 → Isa 44:6 (ot, title transfer — 'First and Last' (exclusive YHWH claim + 'beside me no God') applied to the resurrected Christ)
+- Rev 1:17 → Isa 48:12 (ot, title transfer — 'First and Last' echoed; Isa 48:12-16 features three-agent formula)
+- Rom 10:13 → Joel 2:32 (ot, direct quotation — 'call on the name of YHWH' applied to calling on Jesus as Lord)
+- John 8:58 → Exod 3:14 (ot, echo — ego eimi echoes the divine name revelation; LXX ego eimi ho on)
+- John 8:58 → Isa 43:10 (ot, echo — Isaianic ani hu cluster (hina pisteusete hoti ego eimi); nearly identical syntax in John 8:24)
+- Rev 5:13 → 1 Chr 29:11 (ot, vocabulary + theological — glory, dominion, power ascribed; OT doxology to YHWH paralleled by NT co-worship of God and Lamb)
+- Rev 5:13 → Dan 4:31 (ot, vocabulary — dominion, blessing, heaven; confirmed by parallels tool (score 0.435))
+- Heb 1:8 → Psa 45:6-7 (ot, direct quotation — 'Thy throne, O God' addressed to the Son; two-elohim pattern)
+- John 12:41 → Isa 6:1-3 (ot, identification — Isaiah's throne vision of YHWH of hosts identified as Christ's glory by John)
+- Phil 2:11 → Isa 45:23 (ot, direct quotation — every tongue confess KYRIOS IESOUS CHRISTOS (YHWH oath transferred to Christ))

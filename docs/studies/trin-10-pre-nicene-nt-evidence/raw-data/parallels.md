@@ -1,0 +1,15 @@
+# Cross-Testament Parallels
+
+- Phil 2:10-11 → Isa 45:23 (ot, direct quotation — YHWH-text transfer: 'every knee shall bow' to YHWH → applied to Christ)
+- Rom 10:13 → Joel 2:32 (ot, direct quotation — YHWH-text transfer: 'call on the name of YHWH' → applied to Christ)
+- Rom 14:11 → Isa 45:23 (ot, direct quotation — YHWH-text transfer: 'every knee shall bow to me [YHWH]' → applied to Christ's judgment seat)
+- Heb 1:10-12 → Psa 102:25-27 (ot, direct quotation — YHWH-as-creator text applied to the Son)
+- Heb 1:8-9 → Psa 45:6-7 (ot, direct quotation — 'Thy throne, O God' applied to the Son by the Father)
+- Rev 1:17 → Isa 44:6 (ot, title transfer — YHWH's 'first and last' applied to Christ)
+- Rev 22:13 → Isa 44:6 (ot, title transfer — Alpha/Omega + first/last + beginning/end converge YHWH-titles on Christ)
+- Mark 14:62 → Dan 7:13-14 (ot, allusion — Son of Man coming on clouds with dominion → Jesus's Sanhedrin claim)
+- 1 Cor 8:6 → Deut 6:4 (ot, Shema reformulation — 'YHWH our God is one' redistributed to include Christ as 'one Lord')
+- 1 Cor 1:31 → Jer 9:23-24 (ot, YHWH-text transfer — 'glory in YHWH' applied as 'glory in the Lord [Christ]')
+- 1 Cor 2:16 → Isa 40:13 (ot, YHWH-text transfer — 'the mind of YHWH' becomes 'the mind of Christ')
+- John 12:41 → Isa 6:1-3 (ot, identification — 'Isaiah saw HIS [Christ's] glory' identifies Christ with the YHWH of Isaiah's throne vision)
+- Col 1:16 → Isa 44:24 (ot, creation tension — YHWH created 'alone/by myself' yet NT includes Christ in creation)

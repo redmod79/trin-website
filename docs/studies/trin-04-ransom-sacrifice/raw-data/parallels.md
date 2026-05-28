@@ -1,0 +1,16 @@
+# Cross-Testament Parallels
+
+- Matt 20:28 → Psa 49:8 (ot, vocabulary (ransom))
+- Matt 20:28 → Mark 10:45 (nt, synoptic parallel — identical logion)
+- Matt 20:28 → 1 Tim 2:6 (nt, vocabulary (ransom) — lytron to antilytron)
+- 1 Tim 2:6 → Exo 21:30 (ot, vocabulary (ransom))
+- 1 Tim 2:6 → Gal 1:4 (nt, structural — gave himself)
+- Heb 9:14 → Lev 17:11 (ot, vocabulary (blood atonement))
+- Heb 9:14 → 1 Pet 1:2 (nt, vocabulary (blood, Christ, Spirit))
+- Col 2:15 → Luke 1:52 (nt, vocabulary (rulers put down))
+- John 10:18 → John 10:17 (nt, immediate context — authority over death)
+- Acts 20:28 → 1 Pet 5:2 (nt, vocabulary (flock, shepherd))
+- Rom 5:15 → Rom 5:17 (nt, structural — parallel surplus statements)
+- Isa 53:10 → Heb 10:38 (nt, vocabulary (pleasure, soul))
+- Heb 2:14 → 1 John 3:10 (nt, vocabulary (children, devil))
+- Heb 2:14 → Col 1:22 (nt, vocabulary (death, flesh))

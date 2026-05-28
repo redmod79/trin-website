@@ -1,0 +1,15 @@
+# Cross-Testament Parallels
+
+- John 14:28 → John 17:24 (nt, vocabulary (father, love) + theological (Father-Son relationship in departure context))
+- John 14:28 → Luke 22:42 (nt, vocabulary (father) + theological (subordination to Father's will))
+- John 5:19 → John 8:28 (nt, vocabulary + structural (identical 'I do nothing of myself' construction, highest match at 0.558))
+- Mark 13:32 → Matthew 24:36 (nt, synoptic parallel (0.813 match — nearly identical text, textual variant on 'nor the Son'))
+- Mark 13:32 → Matthew 11:27 (nt, vocabulary (father, know) — mutual exclusive knowledge between Father and Son)
+- 1 Corinthians 15:28 → Isaiah 9:5 (ot, theological (deity titles for the Son — Mighty God, Everlasting Father))
+- Philippians 2:7 → Isaiah 52:14 (ot, vocabulary (form) — servant's marred form parallels morphe doulou)
+- Psalm 110:1 → Luke 20:42 (nt, direct citation (0.469) — messianic enthronement psalm cited by Jesus)
+- Psalm 110:1 → Mark 12:36 (nt, direct citation (0.461) — Jesus cites Psalm 110:1)
+- Psalm 110:1 → Matthew 22:44 (nt, direct citation (0.446))
+- Psalm 110:1 → Acts 2:34 (nt, direct citation (0.380) — Peter at Pentecost)
+- Psalm 110:1 → Hebrews 1:13 (nt, direct citation (0.357) — angels inferior to Son)
+- Hebrews 2:9 → Psalm 8:5-6 (ot, direct citation — 'made lower than the angels' from Psalm 8)

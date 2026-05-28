@@ -1,0 +1,15 @@
+# Cross-Testament Parallels
+
+- Rev 5:13 → Rev 4:9 (nt, vocabulary + structural — same worship vocabulary (glory, honor, power) applied to God in 4:9 and to God AND the Lamb in 5:13)
+- Rev 5:13 → Rev 7:12 (nt, vocabulary — identical doxological terms (blessing, honor, glory) in both worship scenes)
+- Rev 5:13 → 1 Chr 29:11 (ot, vocabulary + theological — David's doxology to YHWH (dominion, glory, heaven) parallels the universal doxology to God and the Lamb)
+- Rev 5:13 → Dan 7:27 (ot, structural — everlasting dominion given to the saints parallels the eternal worship of the Lamb)
+- John 1:3 → Gen 1:1 (ot, theological — 'In the beginning God created' (Gen 1:1) parallels 'In the beginning was the Word... all things were made by him' (John 1:1-3))
+- Isa 44:24 → Heb 1:10 (nt, theological — YHWH created 'alone' (Isa 44:24) yet Heb 1:10 applies Psa 102:25-27 creation text to the Son)
+- Isa 44:24 → Col 1:16 (nt, theological — YHWH created 'alone' yet 'all things created by him [Christ] and for him')
+- Heb 1:10 → Psa 102:25-27 (ot, direct quotation — Heb 1:10-12 quotes Psa 102:25-27 and applies YHWH's creation and eternality to the Son)
+- Heb 1:10 → Gen 1:1 (ot, theological — 'in the beginning hast laid the foundation' echoes 'in the beginning God created')
+- Isa 45:23 → Rom 14:11 (nt, direct quotation — 'every knee shall bow' transferred from YHWH to Christ (via Phil 2:10-11))
+- Isa 44:6 → Rev 1:17 (nt, title transfer — 'I am the first and the last' (YHWH in Isa 44:6) → 'I am the first and the last' (Jesus in Rev 1:17))
+- Heb 9:12 → Exo 30:10 (ot, typological — Day of Atonement blood ritual (Exo 30:10) fulfilled by Christ's 'own blood' entering the heavenly holy place)
+- Acts 7:59 → Psa 31:5 (ot, vocabulary — Stephen's 'Lord Jesus, receive my spirit' echoes Psa 31:5 'Into thine hand I commit my spirit' (addressed to YHWH))

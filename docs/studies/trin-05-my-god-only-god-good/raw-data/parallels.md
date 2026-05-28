@@ -1,0 +1,17 @@
+# Cross-Testament Parallels
+
+- Mark 10:18 → Mark 2:7 (nt, lexical + structural — identical Greek phrase 'ei me heis ho Theos' in both passages; both contexts involve Jesus demonstrating divine prerogative after the 'only God' challenge)
+- Mark 10:18 → Psalm 14:1 (ot, thematic — 'none that doeth good' (towb/agathos) establishes the universal depravity background for 'no one is good except God alone')
+- John 20:17 → John 20:28 (nt, literary juxtaposition — 11 verses separate 'my God and your God' from Thomas's 'my Lord and my God'; same chapter, same 'my God' language, opposite directions)
+- John 20:17 → Ruth 1:16 (ot, structural — 'my X and your X' possessive pattern (Ruth: 'thy people my people, thy God my God'); John 20:17 inverts this, granting participation in Jesus' relationship)
+- John 20:28 → John 1:1 (nt, inclusio — Gospel opens 'the Word was God' and closes with Thomas's 'my God' to Jesus)
+- Heb 1:8 → Psalm 45:6-7 (ot, direct quotation — Hebrews quotes Psalm 45 and applies the two-elohim pattern to the Father-Son relationship)
+- Heb 1:10-12 → Psalm 102:25-27 (ot, YHWH-text transfer — Psalm addressed to YHWH applied to the Son in Hebrews)
+- Rev 1:17 → Isa 44:6 (ot, YHWH-title claim — Christ claims 'First and Last' from Isaiah's exclusive YHWH self-designation)
+- Rev 3:12 → Rev 1:8 (nt, same-book tension — same glorified Christ says 'my God' (3:12) and claims 'Alpha and Omega, the Almighty' (1:8))
+- Phil 2:10-11 → Isa 45:23 (ot, YHWH-text transfer — 'every knee shall bow' applied from YHWH to Jesus)
+- Acts 10:25-26 → Rev 19:10 (nt, worship-refusal pattern — both Peter and the angel refuse worship and redirect to God; Jesus never does)
+- Psalm 22:1 → Matt 27:46 (nt, direct quotation — Jesus quotes the paradigmatic 'my God' text at the cross)
+- Mark 10:18 → Psalm 86:5 (ot, thematic — 'Thou, Lord, art good' (towb) — OT affirmation of God's goodness that Mark 10:18 presupposes)
+- Mark 10:18 → Luke 18:19 (nt, synoptic parallel — Luke preserves the identical phrasing; scored 0.648 hybrid match)
+- Mark 10:18 → Matt 19:17 (nt, synoptic variant — Matthew shifts from personal address to abstract question about goodness)

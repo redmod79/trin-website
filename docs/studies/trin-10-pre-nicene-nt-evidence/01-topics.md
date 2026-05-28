@@ -1,0 +1,194 @@
+# Topics Research
+
+## Question
+Does the New Testament itself — written 200+ years before the Council of Nicaea — teach the deity of Christ, or was this a 4th-century invention? Survey the Christological claims across the earliest NT documents and their dating.
+
+### JESUS, THE CHRIST — DIVINITY OF
+
+- PSA 102:24-27
+- HEB 1:8
+- HEB 1:10-12
+- ISA 9:6
+- HOS 1:7
+- TIT 2:13
+- ROM 9:5
+- ECC 12:14
+- 1CO 4:5
+- 2CO 5:10
+- 2TI 4:1
+- DAN 10:17
+- REV 1:5
+- REV 17:14
+- 1CO 15:47
+- GEN 2:3
+- MAT 12:8
+- ACT 10:36
+- ROM 10:11-13
+- MAT 26:63-67
+- ACT 20:28
+- ISA 40:28
+- JHN 1:3
+- COL 1:16
+
+DIVINITY OF — As the eternal God and Creator PSA 102:24-27; with HEB 1:8,10-12. The mighty God ISA 9:6. The Great God and Saviour HOS 1:7; with TIT 2:13. God over all ROM 9:5. God the Judge ECC 12:14; with 1CO 4:5; 2CO 5:10; 2TI 4:1. King of kings and LORD of lords DAN 10:17; with REV 1:5; 17:14. The Lord from heaven 1CO 15:47. Lord of the sabbath GEN 2:3; with MAT 12:8. Lord of all ACT 10:36; ROM 10:11-13. Son of God MAT 26:63-67. His blood is called the blood of God ACT 20:28. As Creator of all things ISA 40:28; JHN 1:3; COL 1:16.
+
+### JESUS, THE CHRIST — UNCLASSIFIED SCRIPTURES RELATING TO THE DIVINITY OF
+
+- GEN 1:1-14
+- EXO 23:20-21
+- NUM 21:6
+- PSA 45:6-7
+- PSA 102:24-27
+- PSA 110:1
+- ISA 6:1
+- ISA 7:14
+- ISA 8:13-14
+- ISA 9:6
+- ISA 40:3
+- ISA 40:9-10
+- MAL 3:1
+- MAT 1:23
+- MAT 3:3
+- MAT 8:29
+- MAT 9:6
+- MAT 11:10
+- MAT 22:43-45
+- MAT 28:17-18
+- MRK 5:6-7
+- LUK 4:12
+- LUK 4:33-34
+- LUK 8:28
+- LUK 9:43-44
+- JHN 1:1-2
+- JHN 5:17-18
+- JHN 5:21-23
+- JHN 10:30-33
+- JHN 12:41
+- JHN 12:45
+- JHN 20:28
+- ACT 7:37-39
+- ACT 20:28
+- ROM 1:7
+- 1CO 1:3
+- 1CO 2:8
+- 1CO 8:6
+- 1CO 10:9
+- 1CO 15:47
+- 2CO 1:2
+- GAL 1:1-2
+- EPH 1:2
+- EPH 6:23-24
+- PHP 1:2
+- COL 1:2
+- 1TH 1:1
+- 1TH 3:11
+- 2TH 1:1-2
+- 2TH 2:16-17
+- 1TI 3:16
+- 2TI 1:2
+- TIT 2:13
+- HEB 1:8
+- HEB 1:10
+- 1PE 2:8
+- 1JN 5:20
+
+UNCLASSIFIED SCRIPTURES RELATING TO THE DIVINITY OF GEN 1:1-14; EXO 23:20,21; NUM 21:6; PSA 45:6,7; 102:24-27; 110:1; ISA 6:1; 7:14; 8:13,14; 9:6; 40:3,9,10; MAL 3:1; MAT 1:23; 3:3; 8:29; 9:6; 11:10; 22:43-45; 28:17,18; MRK 5:6,7; LUK 4:12,33,34; 8:28; 9:43,44; JHN 1:1,2; 5:17,18,21-23; 10:30-33; 12:41,45; 20:28; ACT 7:37-39; 20:28; ROM 1:7; 1CO 1:3; 2:8; 8:6; 10:9; 15:47; 2CO 1:2; GAL 1:1,2; EPH 1:2; 6:23,24; PHP 1:2; COL 1:2; 1TH 1:1; 3:11; 2TH 1:1,2; 2:16,17; 1TI 3:16; 2TI 1:2; TIT 2:13; HEB 1:8,10; 1PE 2:8; 1JN 5:20
+
+### JESUS, THE CHRIST — ETERNITY OF
+
+- PSA 102:24-27
+- PRO 8:22-25
+- ISA 9:6
+- MIC 5:2
+- MRK 12:36-37
+- JHN 1:1-2
+- JHN 1:4
+- JHN 1:15
+- JHN 6:62
+- JHN 8:23
+- JHN 8:58
+- JHN 12:41
+- JHN 17:5
+- JHN 17:24-25
+- EPH 3:21
+- EPH 4:10
+- COL 1:17
+- 2TI 1:9
+- HEB 1:10-12
+- HEB 6:20
+- HEB 7:16
+- HEB 7:24-25
+- HEB 13:8
+- 1PE 1:20
+- 1JN 1:1-2
+- 1JN 2:13-14
+- REV 1:8
+- REV 1:11
+- REV 1:17-18
+- REV 5:13-14
+
+ETERNITY OF PSA 102:24-27; PRO 8:22-25; ISA 9:6; MIC 5:2; MRK 12:36,37; JHN 1:1,2,4,15; 6:62; 8:23,58; 12:41; 17:5,24,25; EPH 3:21; 4:10; COL 1:17; 2TI 1:9; HEB 1:10-12; 6:20; 7:16,24,25; 13:8; 1PE 1:20; 1JN 1:1,2; 2:13,14; REV 1:8,11,17,18; 5:13,14
+
+### JESUS, THE CHRIST — CREATOR
+
+- JHN 1:3
+- JHN 1:10
+- 1CO 8:6
+- EPH 3:9
+- COL 1:16-17
+- HEB 1:2
+- HEB 1:10
+- REV 3:14
+
+CREATOR JHN 1:3,10; 1CO 8:6; EPH 3:9; COL 1:16,17; HEB 1:2,10; REV 3:14
+
+### TRINITY — THE HOLY
+
+- GEN 1:26
+- GEN 3:22
+- ISA 6:3
+- ISA 6:8
+- ISA 11:2-3
+- ISA 42:1
+- ISA 48:16
+- ISA 61:1-3
+- ISA 63:9-10
+- MAT 1:18
+- MAT 1:20
+- MAT 3:11
+- MAT 3:16
+- MAT 12:18
+- MAT 12:28
+- MAT 28:19
+- 1CO 8:6
+- 1CO 12:3-6
+- 2CO 13:14
+
+THE HOLY GEN 1:26; 3:22; ISA 6:3,8; 11:2,3; 42:1; 48:16; 61:1-3; 63:9,10; MAT 1:18,20; 3:11,16; 12:18,28; 28:19; MRK 1:8; LUK 1:35; 3:16,22; 4:1,14,18; JHN 1:32,33; 3:34,35; 7:39; 14:16,17,26; 15:26; 16:7,13-15; 20:22; ACT 1:2,4,5; 2:33; 10:36-38; ROM 1:3,4; 8:9-11,26,27; 1CO 2:10,11; 6:19; 8:6; 12:3-6; 2CO 1:21,22; 3:17; 5:5; 13:14; GAL 4:4,6; PHP 1:19; COL 2:2; 2TH 2:13,14,16; 1TI 3:16; TIT 3:4-6; HEB 9:14; 1PE 1:2; 3:18; 1JN 5:6,7; REV 4:8
+
+### WORSHIP — To be rendered only to God / Of Jesus
+
+- EXO 20:3
+- DEU 5:7
+- DEU 6:13
+- MAT 4:10
+- LUK 4:8
+- ACT 10:26
+- ACT 14:15
+- COL 2:18
+- REV 19:10
+- REV 22:8
+
+To be rendered only to God EXO 20:3; DEU 5:7; 6:13; MAT 4:10; LUK 4:8; ACT 10:26; 14:15; COL 2:18; REV 19:10; 22:8. Of Jesus — See JESUS, WORSHIP OF
+
+### CREATION — JESUS, CREATOR / GOD, CREATOR
+
+- GEN 1:1
+- JHN 1:3
+- JHN 1:10
+- 1CO 8:6
+- COL 1:16-17
+- HEB 1:2
+- HEB 1:10
+
+See GOD, CREATOR. See JESUS, CREATOR. Beginning of GEN 1:1. History of GEN 1; 2.
