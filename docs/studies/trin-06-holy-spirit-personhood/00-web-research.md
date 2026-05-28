@@ -6,7 +6,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ## Sources Found
 
 ### Robert M. Bowman Jr. — "Neuter Pneuma and Neuter Pronouns Mean Not a Person: Bad Arguments against the Personhood of the Holy Spirit #1" (Institute for Religious Research, 2014)
-**URL:** https://bib.irr.org/neuter-pneuma-and-neuter-pronouns-mean-not-person-bad-arguments-against-personhood-of-holy-spirit-1
+**URL:** [bib.irr.org](https://bib.irr.org/neuter-pneuma-and-neuter-pronouns-mean-not-person-bad-arguments-against-personhood-of-holy-spirit-1)
 **Key claims:**
 - Grammatical gender is arbitrary relative to personhood: "grammatical gender does not indicate personhood or non-personhood." Greek nouns in all three genders refer to both personal and impersonal referents.
 - The Greek noun *paidion* ("child") is neuter and refers to Jesus 11 times in the NT (Matt 2:8, 9, 11, 13 [2x], 14, 20 [2x]; Luke 2:17, 27, 40). "The fact that it is neuter has absolutely nothing to do with whether it refers to a person."
@@ -21,7 +21,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ---
 
 ### Robert M. Bowman Jr. — "The Holy Spirit as the Paraclete in John" (Institute for Religious Research, Part Three)
-**URL:** https://bib.irr.org/part-three-holy-spirit-paraclete-in-john
+**URL:** [bib.irr.org](https://bib.irr.org/part-three-holy-spirit-paraclete-in-john)
 **Key claims:**
 - John maintains standard grammatical agreement: masculine pronouns (*ekeinos*, *auton*) appear when *parakletos* (masculine) is the antecedent (14:26; 15:26; 16:7, 8, 14); neuter pronouns appear when *pneuma* (neuter) is the antecedent (14:17a, 26; 15:26).
 - Citing Daniel Wallace: "the masculine pronouns are used precisely because their antecedent is a personal noun used in a context in which that noun designates *someone* taking Jesus' place."
@@ -50,7 +50,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ---
 
 ### Ministry Magazine — "'Another Paraclete': The Holy Spirit in John 14-17" (April 2012)
-**URL:** https://www.ministrymagazine.org/archive/2012/04/%E2%80%9Canother-paraclete%E2%80%9D:-the-holy-spirit-in-john-14%E2%80%9317
+**URL:** [ministrymagazine.org](https://www.ministrymagazine.org/archive/2012/04/%E2%80%9Canother-paraclete%E2%80%9D:-the-holy-spirit-in-john-14%E2%80%9317)
 **Key claims:**
 - The syntactical antecedent of masculine pronouns like *ekeinos* is *parakletos*, not *pneuma*. Citing Daniel Wallace to this effect.
 - "The gender of parakletos, as well as that of pneuma, is nothing more than a linguistic accident" — warns against deriving theological conclusions from grammatical gender.
@@ -65,7 +65,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ---
 
 ### Jiří Moskala — "The Holy Spirit in the Hebrew Scriptures" (JATS 24/2, 2013, pp. 18-58)
-**URL:** https://www.atsjats.org/moskala-holy-spirit-in-the-ot-formatted.pdf
+**URL:** [atsjats.org](https://www.atsjats.org/moskala-holy-spirit-in-the-ot-formatted.pdf)
 **Key claims:**
 - The Holy Spirit functioned actively throughout the OT, contrary to assumptions that pneumatic activity was limited before Pentecost.
 - Genesis 1:2 demonstrates the Spirit's active engagement in creation alongside other divine persons.
@@ -80,7 +80,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ---
 
 ### Ron E. M. Clouzet — "The Personhood of the Holy Spirit and Why It Matters" (JATS 17/1, Spring 2006, pp. 11-32)
-**URL:** https://digitalcommons.andrews.edu/jats/vol17/iss1/3/
+**URL:** [digitalcommons.andrews.edu](https://digitalcommons.andrews.edu/jats/vol17/iss1/3/)
 **Key claims:**
 - John intentionally uses Greek language freely to present the Holy Spirit as a person.
 - In John 16:13-14, John uses *pneuma* (neuter) but employs the masculine demonstrative pronoun *ekeinos* instead of the expected neuter *ekeino*.
@@ -104,7 +104,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ---
 
 ### Precept Austin — Commentary on Ephesians 4:30 (Grieving the Holy Spirit)
-**URL:** https://www.preceptaustin.org/ephesians_430_commentary
+**URL:** [preceptaustin.org](https://www.preceptaustin.org/ephesians_430_commentary)
 **Key claims:**
 - Greek *lypeite* (λυπέω) from *lupe* (λύπη) denotes "sadness, grief" — "a pain or grief that can only be experienced between two people who deeply love each other" (Rick Renner).
 - "Grieve is a love word... He is grieved, because we are the objects of the love of the triune God" (S. Lewis Johnson).
@@ -121,7 +121,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ---
 
 ### K. Erik Thoennes — "Personal Actions of the Holy Spirit" (Crossway, 2012; adapted from *Life's Biggest Questions*)
-**URL:** https://www.crossway.org/articles/personal-actions-of-the-holy-spirit/
+**URL:** [crossway.org](https://www.crossway.org/articles/personal-actions-of-the-holy-spirit/)
 **Key claims:**
 - Catalogs personal actions attributed to the Spirit with verse references:
   - Comforts (John 14:16, 26; 15:26; 16:7)
@@ -143,7 +143,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ---
 
 ### Lectionary Greek — "1 Corinthians 12:1-11" (Greek grammatical analysis)
-**URL:** http://lectionarygreek.blogspot.com/2010/01/1-corinthians-121-11.html
+**URL:** [lectionarygreek.blogspot.com](http://lectionarygreek.blogspot.com/2010/01/1-corinthians-121-11.html)
 **Key claims:**
 - In 1 Cor 12:11, Paul uses *bouletai* (βούλεται, present middle indicative of *boulomai*) — "as he wills." Paul "locates the will of God in the Holy Spirit."
 - The Spirit *energei* (ἐνεργέω, "energizes") and *diairei* (διαιρέω, "distributes") the gifts — all three verbs denote conscious agency.
@@ -156,7 +156,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ---
 
 ### BeliefMap — "Does the Bible Say the Holy Spirit Is a Person?"
-**URL:** https://beliefmap.org/bible-says/holy-spirit/is-person
+**URL:** [beliefmap.org](https://beliefmap.org/bible-says/holy-spirit/is-person)
 **Key claims — PRO-personhood:**
 - The Spirit speaks using first-person language: Acts 13:2, 8:29, 10:19; 1 Tim 4:1; Rev 14:13. "Only persons issue commands."
 - The Spirit can be lied to (Acts 5:3-4), insulted (Heb 10:29), grieved (Eph 4:30). "Only a person can literally be insulted."
@@ -181,7 +181,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ---
 
 ### Bible.org — "The Holy Spirit's Personhood"
-**URL:** https://bible.org/seriespage/1-holy-spirit-s-personhood
+**URL:** [bible.org](https://bible.org/seriespage/1-holy-spirit-s-personhood)
 **Key claims:**
 - The Spirit possesses three marks of personhood: intellect (ability to think and know), emotion (ability to feel), volition (ability to choose and act).
 - Mind: 1 Cor 2:10-11 (Spirit searches and knows); Rom 8:27 (*phronema* = "mind of the Spirit").
@@ -194,7 +194,7 @@ Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned
 ---
 
 ### JATS 30/1-2 (2019) — "Personality of the Holy Spirit: A Biblical, Historical, and Theological Investigation"
-**URL:** https://www.atsjats.org/personality-of-the-holy-spirit-a-biblical,-historical,-and-theological-investigation.pdf
+**URL:** [atsjats.org](https://www.atsjats.org/personality-of-the-holy-spirit-a-biblical,-historical,-and-theological-investigation.pdf)
 **Key claims:**
 - Full text not extractable (PDF binary format).
 - Title indicates comprehensive treatment: biblical evidence, historical development, theological framework.

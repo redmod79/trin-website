@@ -6,7 +6,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ## Sources Found
 
 ### Jordan Hampton — "Did Jesus Deny His Divinity?" (The Analytic Christian)
-**URL:** https://www.theanalyticchristian.com/blog/did-jesus-deny-his-divinity
+**URL:** [theanalyticchristian.com](https://www.theanalyticchristian.com/blog/did-jesus-deny-his-divinity)
 **Key claims:**
 - The phrase "except God alone" (ei me heis ho theos) appears only twice in Mark's Gospel: Mark 10:18 and Mark 2:7. Both instances begin with tis ("why"), creating an intentional verbal connection between the two passages.
 - This lexical parallel links the "good teacher" episode back to Mark 2:7, where scribes ask "Who can forgive sins but God alone?" — in that context, Jesus proceeds to demonstrate he possesses that divine prerogative by forgiving sins.
@@ -20,7 +20,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### Rev. Garrick Sinclair Beckett — "No One is Good but God Alone: The Humility & Divinity of Christ in Mark 10:18" (The Lutheran Column, May 31, 2025)
-**URL:** https://thelutherancolumn.com/2025/05/31/no-one-is-good-but-god-alone-the-humility-divinity-of-christ-in-mark-1018/
+**URL:** [thelutherancolumn.com](https://thelutherancolumn.com/2025/05/31/no-one-is-good-but-god-alone-the-humility-divinity-of-christ-in-mark-1018/)
 **Key claims:**
 - Jesus' statement functions as Christological instruction rather than denial of divinity. The man's flattery ("Good Teacher") contains theological truth he does not comprehend.
 - By questioning the term "good," Jesus redirects from works-righteousness to divine identity: "If you truly believe I am good, then recognize what that means — that I am God."
@@ -33,7 +33,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### Eric Lyons — "Did Jesus Deny Deity and Moral Perfection in Mark 10:18?" (Apologetics Press, *Reason & Revelation* 34.5, May 2014)
-**URL:** https://apologeticspress.org/did-jesus-deny-deity-and-moral-perfection-in-mark-1018-4832/
+**URL:** [apologeticspress.org](https://apologeticspress.org/did-jesus-deny-deity-and-moral-perfection-in-mark-1018-4832/)
 **Key claims:**
 - Distinguishes two senses of agathos: humans can be called "good" (Acts 11:24 describes Barnabas as agathos), but God's goodness is absolute and supreme. Jesus uses the word in the supreme sense.
 - Cites Geisler and Howe's logical formulation: "Jesus was saying to him, 'Do you realize what you are saying when you call Me Good? Are you saying I am God?'... Either Jesus was good and God, or else He was bad and man."
@@ -47,7 +47,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### Bratcher & Nida — *A Handbook on the Gospel of Mark* (UBS Handbook Series, 1961)
-**URL:** https://tips.translation.bible/story/translation-commentary-on-mark-1018/
+**URL:** [tips.translation.bible](https://tips.translation.bible/story/translation-commentary-on-mark-1018/)
 **Key claims:**
 - As the word agathos is used by Jesus it refers to moral attributes, and "here, with reference to God, is the equivalent of 'perfect.'"
 - The phrase heis ho theos ("one, [that is] God") is noted as potentially "the One God" with a cross-reference to Mark 2:7.
@@ -60,7 +60,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### Christ's Words Project — Greek Analysis of Mark 10:18
-**URL:** https://christswords.com/content/mar-1018-why-do-you-call-me-good
+**URL:** [christswords.com](https://christswords.com/content/mar-1018-why-do-you-call-me-good)
 **Key claims:**
 - agathos carries multiple meanings: "when applied to people, 'well-born', 'gentle', 'brave,' and 'capable.' When applied to things, it means 'serviceable', 'morally good,' and 'beneficial.'"
 - Proposes "capable" as a better rendering: "Why call me capable? No one is capable except one — the Divine."
@@ -74,7 +74,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### John Calvin — Commentary on Matthew, Mark, Luke (Volume 2)
-**URL:** https://ccel.org/ccel/calvin/calcom32/calcom32.ii.lxx.html
+**URL:** [ccel.org](https://ccel.org/ccel/calvin/calcom32/calcom32.ii.lxx.html)
 **Key claims:**
 - Calvin explicitly rejects the "implicit deity claim" reading: "I do not understand this correction in so refined a sense as is given by a good part of interpreters, as if Christ intended to suggest his Divinity."
 - Calvin argues Jesus' point concerns doctrinal authority, not divine identity: Christ says "Thou falsely callest me a good Master, unless thou acknowledgest that I have come from God."
@@ -85,7 +85,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### Multiple Commentators on Mark 10:18 (BibleHub Commentaries)
-**URL:** https://biblehub.com/commentaries/mark/10-18.htm
+**URL:** [biblehub.com](https://biblehub.com/commentaries/mark/10-18.htm)
 **Key claims (by commentator):**
 - **Matthew Poole:** "not as denying that he was good... but checked him who did not believe him such, yet called him God" — the phrase proves Christ's divinity rather than denying it.
 - **John Gill:** "nor do these words at all militate against the deity of Christ... he is good in the same sense in which God is good" — Christ tacitly suggests his godhood by claiming the same goodness as God.
@@ -98,7 +98,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### Wikipedia — John 20:28 (Scholarly References)
-**URL:** https://en.wikipedia.org/wiki/John_20:28
+**URL:** [en.wikipedia.org](https://en.wikipedia.org/wiki/John_20:28)
 **Key claims:**
 - **Murray J. Harris:** Thomas's expression drew from liturgical forms in the LXX (Septuagint).
 - **Augustine of Hippo:** Thomas "saw and touched the man, and confessed the God whom he neither saw nor touched."
@@ -113,7 +113,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### Ashley Van Der Walt — "Defending the Deity of Jesus in John 20:17" (The Social Apologist)
-**URL:** https://www.thesocialapologist.com/post/defending-the-deity-of-jesus-in-john-20-17
+**URL:** [thesocialapologist.com](https://www.thesocialapologist.com/post/defending-the-deity-of-jesus-in-john-20-17)
 **Key claims:**
 - Jesus' reference to "my God and your God" reflects his human nature relating to the Father while maintaining his divine nature: "does not negate His divine nature but rather showcases the fullness of His incarnation."
 - The "ambassador" analogy: "an ambassador refers to the king as 'my king'" without undermining the ambassador's own authority.
@@ -124,7 +124,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### BillionBibles — "Hebrews 1:8 and John 20:17: God Called God"
-**URL:** https://www.billionbibles.com/jehovahs-witnesses/john-20-hebrews-8-god-called-god.html
+**URL:** [billionbibles.com](https://www.billionbibles.com/jehovahs-witnesses/john-20-hebrews-8-god-called-god.html)
 **Key claims:**
 - Reconciles Jesus calling God "my God" (John 20:17) with God the Father calling Jesus "God" (Hebrews 1:8) through mutual recognition: the Father calls the Son "God," while the Son acknowledges the Father as "God."
 - Hebrews 1:10-12 echoes Psalm 102:25-27, which addresses Jehovah directly. The Father's description of Jesus in Hebrews 1:10-12 matches Yahweh's description in the Old Testament.
@@ -135,7 +135,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### Multiple Sources — The Shaliach (Agency) Concept
-**URL:** https://thehumanjesus.org/2023/05/23/the-agent-in-the-gospel-of-john/ (and related)
+**URL:** [thehumanjesus.org](https://thehumanjesus.org/2023/05/23/the-agent-in-the-gospel-of-john/) (and related)
 **Key claims:**
 - In Jewish law, the agent (sheluach/sheliach) principle states: "the one sent by a man is as the man himself" (Mishnah Berakhot 5:5).
 - Jesus is depicted as God's authorized envoy against the background of Jewish notions of agency. As the shaliach endowed with full authority of the sender, Jesus functions as the unique emissary with all things placed in his hands.
@@ -148,7 +148,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### Simon Gathercole — *The Preexistent Son: Recovering the Christologies of Matthew, Mark, and Luke* (Eerdmans, 2006)
-**URL:** https://www.amazon.com/Preexistent-Son-Recovering-Christologies-Matthew/dp/0802829015
+**URL:** [amazon.com](https://www.amazon.com/Preexistent-Son-Recovering-Christologies-Matthew/dp/0802829015)
 **Key claims (from search summaries and secondary sources):**
 - Challenges the commonly held view that only John's Gospel shows evidence for Jesus' heavenly identity and preexistence.
 - Argues Matthew, Mark, and Luke also present Jesus as having existed with the Father prior to his earthly ministry.
@@ -160,7 +160,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### DavarLogos — "The Use of Psalm 22 (21 [LXX]) in Mark's Gospel: Intertextuality, the Scripturization of History, and Christology" (DavarLogos 20.2, 2021, pp. 1-28)
-**URL:** https://www.academia.edu/71494089/ (paywalled)
+**URL:** [academia.edu](https://www.academia.edu/71494089/) (paywalled)
 **Key claims (from abstract/summary):**
 - Psalm 22 enables Mark to present Jesus as both divine and human. "Jesus' despair, divine and human abandonment, and defeat are proper of human experience."
 - A divine-human Christology emerges from the use of Psalm 22 in Mark.
@@ -171,7 +171,7 @@ When Jesus says "Why do you call me good? No one is good except God alone" (Mark
 ---
 
 ### BibleHub Study Bible — John 20:28 Commentary Collection
-**URL:** https://biblehub.com/study/john/20-28.htm
+**URL:** [biblehub.com](https://biblehub.com/study/john/20-28.htm)
 **Key claims:**
 - Thomas's declaration is read as the climactic confession of John's Gospel, fulfilling the purpose stated in John 20:31 ("that you may believe that Jesus is the Christ, the Son of God").
 - The confession echoes John's prologue (John 1:1: "the Word was God") creating an inclusio.

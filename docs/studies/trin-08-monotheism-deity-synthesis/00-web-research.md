@@ -6,7 +6,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 ## Sources Found
 
 ### Richard Bauckham — *God Crucified: Monotheism and Christology in the New Testament* / *Jesus and the God of Israel* (Eerdmans, 2008)
-**URL:** https://www.thegospelcoalition.org/themelios/review/jesus-and-the-god-of-israel-god-crucified-and-other-studies-on-the-new-testaments-christology-of-divine-identity/
+**URL:** [thegospelcoalition.org](https://www.thegospelcoalition.org/themelios/review/jesus-and-the-god-of-israel-god-crucified-and-other-studies-on-the-new-testaments-christology-of-divine-identity/)
 **Key claims:**
 - Central thesis: "the highest possible Christology -- the inclusion of Jesus in the unique divine identity -- was central to the faith of the early church even before any of the New Testament writings were written, since it occurs in all of them."
 - Jewish monotheism is best understood not as an abstract philosophical category but as the conviction that "YHWH appears in a class of his own" -- exclusive transcendence over all beings.
@@ -19,7 +19,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Larry W. Hurtado — *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity* (Eerdmans, 2003) / Blog posts on binitarian devotion
-**URL:** https://larryhurtado.wordpress.com/2012/09/10/binitarian-dyadic-triadic-early-christian-god-talk-and-devotion/
+**URL:** [larryhurtado.wordpress.com](https://larryhurtado.wordpress.com/2012/09/10/binitarian-dyadic-triadic-early-christian-god-talk-and-devotion/)
 **Key claims:**
 - Earliest Christianity represents a "remarkable, and to my knowledge singular, 'mutation'" in Jewish devotional practice by including Jesus as a programmatic recipient of worship alongside God -- a practice that "still appears...novel and without real analogy or precedent."
 - Initially used "binitarian" to describe "a pattern in which we find two distinguishable but uniquely linked figures: God and Jesus." Later preferred "dyadic" to avoid importing later doctrinal connotations.
@@ -31,7 +31,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### N.T. Wright — *Paul and the Faithfulness of God* (Fortress, 2013)
-**URL:** https://www.postost.net/2014/12/what-nt-wright-does-early-high-christology-hurtado-tilling-bauckham
+**URL:** [postost.net](https://www.postost.net/2014/12/what-nt-wright-does-early-high-christology-hurtado-tilling-bauckham)
 **Key claims:**
 - Wright sees 1 Corinthians 8:6 and Philippians 2:6-11 as reflecting "a view of God in which the crucified Jesus has a central place in the Shema."
 - Speculates Paul may have regularly recited the reformulated Shema of 1 Cor 8:6 in the same manner he had previously recited Deuteronomy 6:4.
@@ -42,7 +42,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Chris Tilling — Relational Christology
-**URL:** https://www.postost.net/2014/12/what-nt-wright-does-early-high-christology-hurtado-tilling-bauckham
+**URL:** [postost.net](https://www.postost.net/2014/12/what-nt-wright-does-early-high-christology-hurtado-tilling-bauckham)
 **Key claims:**
 - Offers a "relational christology" perspective that Wright approves of -- emphasizes Christ's *relationship* to God rather than ontological categories.
 - Argues that the way Paul relates to Christ mirrors the way Israel relates to YHWH, suggesting Christ occupies YHWH's relational position.
@@ -50,7 +50,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Andrew Perriman — Alternative reading of 1 Corinthians 8:6 (counter-position)
-**URL:** https://www.postost.net/2015/11/jesus-included-divine-identity-1-corinthians-86
+**URL:** [postost.net](https://www.postost.net/2015/11/jesus-included-divine-identity-1-corinthians-86)
 **Key claims:**
 - Rejects Bauckham's ontological reading of 1 Cor 8:6. Argues for *convergence* rather than bifurcation -- Paul brings together Jewish monotheism with apocalyptic narrative about the exalted Jesus.
 - Functional delegation, not ontological identity: "Lordship is given to the man whom God raised from the dead." Jesus receives delegated authority like Israel's king in Psalm 110:1.
@@ -63,7 +63,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture -- especially the ex/dia distinction, the Malachi 2:10 parallel, and the 1 Cor 15:28 submission
 
 ### Michael J. Kok et al. — Critical Questions for the Early High Christology Club
-**URL:** https://bibleinterp.arizona.edu/opeds/2015/07/kok398030
+**URL:** [bibleinterp.arizona.edu](https://bibleinterp.arizona.edu/opeds/2015/07/kok398030)
 **Key claims:**
 - Kok questions whether early high Christology scholars feel "concern to date a 'high Christology' as close as possible to the founding" -- potential dating bias.
 - Daniel O. McClellan objects to ontological retrojection; advocates a "communicable agency" framework. Argues "angelomorphic christology was too quickly dismissed" and that divine agency provided "handy conceptual templates" for Christ's relationship to God.
@@ -76,7 +76,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture -- especially whether the NT evidence fits an agency model or demands something stronger
 
 ### Scholarly Analysis of John 1:1c — Colwell's Rule and Qualitative Theos
-**URL:** https://dangitbill.wordpress.com/2007/06/05/colwells-rule-and-its-implications-for-john-11c/ ; https://uasvbible.org/2025/10/08/john-1-1c-qualitative-theos-divine-not-a-god/
+**URL:** [dangitbill.wordpress.com](https://dangitbill.wordpress.com/2007/06/05/colwells-rule-and-its-implications-for-john-11c/) ; [uasvbible.org](https://uasvbible.org/2025/10/08/john-1-1c-qualitative-theos-divine-not-a-god/)
 **Key claims:**
 - Colwell's Rule (1933): an anarthrous pre-verbal predicate nominative that is definite in context will usually lack the article. But Colwell never authorized turning this frequency observation into a prescriptive device that forces definiteness on all such nouns.
 - Philip Harner's study (1973) showed that preverbal anarthrous predicate nominatives most often carry a *qualitative* force -- they predicate the nature or essence of the subject rather than identify the subject with a particular individual.
@@ -88,7 +88,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Greek Analysis of John 10:30 — hen (neuter) vs. heis (masculine)
-**URL:** https://christiandefense.org/general/john-1030-i-and-the-father-are-one/
+**URL:** [christiandefense.org](https://christiandefense.org/general/john-1030-i-and-the-father-are-one/)
 **Key claims:**
 - A.T. Robertson (*Word Pictures* 5:186): "One (hen). Neuter, not masculine (heis). Not one person (cf. heis in Gal. 3:28), but one essence or nature."
 - The plural verb *esmen* ("are") reinforces the distinction between two persons while asserting essential unity. A singular verb (eimi or estin) would have implied a single person.
@@ -99,7 +99,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Greek Analysis of Colossians 2:9 — theotetos, pleroma, somatikos
-**URL:** https://www.studylight.org/commentary/colossians/2-9.html ; https://sonofyah.wordpress.com/2012/04/08/colossians-29-pleroma-theotes-and-somatikos/
+**URL:** [studylight.org](https://www.studylight.org/commentary/colossians/2-9.html) ; [sonofyah.wordpress.com](https://sonofyah.wordpress.com/2012/04/08/colossians-29-pleroma-theotes-and-somatikos/)
 **Key claims:**
 - *Theotetos* (theotes, G2320) occurs only here in the entire NT. It refers to the essential nature/essence of deity -- the "Godhead" itself. Distinguished from *theiotes* (G2305, Rom 1:20), which refers to divine quality or attributes that creation can display.
 - Trench's distinction (cited widely): theotes = the being of God; theiotes = the quality of being like God. Lightfoot: theotes = "the whole glorious total of what God is, the supreme Nature and Being of God."
@@ -111,7 +111,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Hebrews 1:3 — charakter tes hypostaseos
-**URL:** https://thegospelcentral.org/2025/12/03/jesus-the-exact-representation-of-god-heb-13/ ; https://www.preceptaustin.org/hebrews_13
+**URL:** [thegospelcentral.org](https://thegospelcentral.org/2025/12/03/jesus-the-exact-representation-of-god-heb-13/) ; [preceptaustin.org](https://www.preceptaustin.org/hebrews_13)
 **Key claims:**
 - *Charakter* originally referred to an engraving tool or the impression made by such a tool (like a stamped imprint on a coin or seal); came to denote an exact imprint, copy, or identical representation.
 - *Hypostasis* literally means "that which stands beneath" (hypo + stasis) -- the underlying substance, essence, or true reality of something.
@@ -123,7 +123,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Scott R. Swain — "To Him Who Sits on the Throne and to the Lamb: Hymning God's Triune Name in Revelation 4-5" (*Reformed Faith & Practice*)
-**URL:** https://journal.rts.edu/article/to-him-who-sits-on-the-throne-and-to-the-lamb-hymning-gods-triune-name-in-revelation-4-5/
+**URL:** [journal.rts.edu](https://journal.rts.edu/article/to-him-who-sits-on-the-throne-and-to-the-lamb-hymning-gods-triune-name-in-revelation-4-5/)
 **Key claims:**
 - The Lamb, though having a human biography ("born of the tribe of Judah"), exists on the divine side of the Creator-creature distinction -- no creature "in heaven or on earth or under the earth" can open the scroll.
 - Worship progression: first to the One on the throne alone (4:9-11), then to include the Lamb (5:8-12), then unified worship: "To him who sits on the throne and to the Lamb be blessing and honor and glory" (5:13).
@@ -136,7 +136,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Philippians 2:5-11 — morphe theou and kenosis
-**URL:** https://www.academia.edu/39533090/Philippians_2_5_11_Revisited ; https://tyndale.tms.edu/wp-content/uploads/2021/09/tmsj9e.pdf
+**URL:** [academia.edu](https://www.academia.edu/39533090/Philippians_2_5_11_Revisited) ; [tyndale.tms.edu](https://tyndale.tms.edu/wp-content/uploads/2021/09/tmsj9e.pdf)
 **Key claims:**
 - *Morphe theou* ("form of God"): Greek *morphe* corresponds to Hebrew *tselem* ("image") in Genesis 1:26 -- denotes not mere appearance but the very essence and nature of deity.
 - *Hyparchon* ("existing/being") -- present participle indicating ongoing, continuous state: Christ eternally existed in the form of God.
@@ -149,7 +149,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Alpha-Omega / First-Last Title Sharing
-**URL:** https://www.gotquestions.org/alpha-and-omega.html ; https://www.pastorjasonelder.com/names-of-god-library/alpha-and-omega-a-prophetic-title-of-jesus
+**URL:** [gotquestions.org](https://www.gotquestions.org/alpha-and-omega.html) ; [pastorjasonelder.com](https://www.pastorjasonelder.com/names-of-god-library/alpha-and-omega-a-prophetic-title-of-jesus)
 **Key claims:**
 - "Alpha and Omega," "First and Last," and "Beginning and End" are used interchangeably across Revelation 1, 21, and 22.
 - BDAG defines the usage as a *merism* -- naming two extremes to encompass everything between them.
@@ -161,7 +161,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Richard M. Davidson — "Proverbs 8 and the Place of Christ in the Trinity" (JATS 17/1, Spring 2006)
-**URL:** https://digitalcommons.andrews.edu/jats/vol17/iss1/4/
+**URL:** [digitalcommons.andrews.edu](https://digitalcommons.andrews.edu/jats/vol17/iss1/4/)
 **Key claims:**
 - Davidson argues the language in Proverbs 8 "goes beyond poetic personification to that of hypostasis (description of an actual divine being)."
 - NT descriptions of Jesus as Wisdom allude to Proverbs 8:22-31, including John 1:1-3, 1 Corinthians 1:24, 30, and Hebrews 1:1-4.
@@ -171,7 +171,7 @@ How do the New Testament writers reconcile strict Old Testament monotheism ("YHW
 **Status:** Lead to verify against Scripture
 
 ### Matthew 28:19 — Singular onoma for three persons
-**URL:** https://christiandefense.org/general/matthew-2819-the-great-commission-trinitarian-baptismal-formula/
+**URL:** [christiandefense.org](https://christiandefense.org/general/matthew-2819-the-great-commission-trinitarian-baptismal-formula/)
 **Key claims:**
 - The singular *onoma* ("name") governs three persons (Father, Son, Holy Spirit). Defenders argue this implies a shared divine identity under one Name.
 - Sharp's Rule #6 applied: when *kai* ("and") connects singular nouns of the same case and the article precedes each noun, each personal noun denotes a distinct person. The three names denote three distinct persons unified under one name.

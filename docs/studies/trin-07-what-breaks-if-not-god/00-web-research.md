@@ -8,7 +8,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ## Sources Found
 
 ### Street Theologian — "Unlike Any Other Name: 10 Distinct Ways the New Testament Treats the Name of Jesus" (Substack, undated)
-**URL:** https://streettheologian.substack.com/p/unlike-any-other-name-10-distinct
+**URL:** [streettheologian.substack.com](https://streettheologian.substack.com/p/unlike-any-other-name-10-distinct)
 **Key claims:**
 - NT writers transfer YHWH-exclusive prerogatives to Jesus across 10 categories: exclusive salvation name (Acts 4:11-12 applying Joel 2:32), invocation in prayer (1 Cor 1:2), "for my name's sake" language (Matt 10:22, 19:29, 24:9), trinitarian name unity (Matt 28:19 singular onoma for three persons), authority over demonic forces (Luke 10:17), cosmic homage (Phil 2:9-11 quoting Isa 45:21-23), forgiveness authority (Acts 2:38, 10:43 vs. Isa 43:25), prayer efficacy and omnipresence (John 14:13-14, Matt 18:20), life's governing principle (Col 3:17), healing power (Acts 3:6, 16)
 - "Paul transfers the very cosmic homage due to YHWH alone directly onto Jesus" via Phil 2:9-11 citing Isa 45:23
@@ -20,7 +20,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### Dr. Joshua Greever — "Forgiveness and Faith in Mark 2" (Bethlehem College and Seminary)
-**URL:** https://bcsmn.edu/mark2/
+**URL:** [bcsmn.edu](https://bcsmn.edu/mark2/)
 **Key claims:**
 - Jesus pronounces the paralytic's sins forgiven before healing him, and the scribes understand this as arrogating "the divine prerogative of definitive forgiveness of sins"
 - The scribes' objection centers on Jesus overstepping human boundaries by exercising a function "traditionally God's exclusive"
@@ -32,7 +32,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### Kermit Zarley — "Did Jesus' Authority To Forgive Sins Indicate He Was God?" (Patheos, 2017)
-**URL:** https://www.patheos.com/blogs/kermitzarleyblog/2017/03/jesus-authority-forgive-sins-indicate-god/
+**URL:** [patheos.com](https://www.patheos.com/blogs/kermitzarleyblog/2017/03/jesus-authority-forgive-sins-indicate-god/)
 **Key claims (anti-deity position):**
 - Zarley (author of *The Restitution of Jesus Christ*, formerly Trinitarian for 22 years) argues Jesus' forgiveness does not prove deity
 - Cites E.P. Sanders: "such a pronouncement would not be regarded as blasphemy by any known Jewish law"
@@ -46,7 +46,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### Precept Austin — Hebrews 9:13-14 Commentary (compilation of commentators)
-**URL:** https://www.preceptaustin.org/hebrews_913-14
+**URL:** [preceptaustin.org](https://www.preceptaustin.org/hebrews_913-14)
 **Key claims:**
 - **F.F. Bruce:** The phrase "eternal Spirit" (aioniou pneumatos) draws on Isaianic Servant imagery; "It is in the power of the Divine Spirit, accordingly, that the Servant accomplishes every phase of his ministry"
 - **Spurgeon:** The phrase indicates Christ's "eternal Godhead" gave His offering "extreme value that otherwise could not have been attached to it"
@@ -64,7 +64,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### "18 Passages From Mark's Gospel That Prove Jesus Is God" (IsJesusAlive.com)
-**URL:** https://isjesusalive.com/18-passages-in-marks-gospel-that-prove-jesus-is-god/
+**URL:** [isjesusalive.com](https://isjesusalive.com/18-passages-in-marks-gospel-that-prove-jesus-is-god/)
 **Key claims:**
 - Mark 2:5-10: Scribes explicitly reason "Who can forgive sins but God alone?" — Jesus does not deny this premise but validates it by healing
 - Mark 4:39-41, 6:48-50: Jesus exercises authority over natural law (calming storm, walking on water)
@@ -79,8 +79,8 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### Granville Sharp's Rule and Titus 2:13 — Multiple Sources
-**URL (primary):** https://christianpublishinghouse.co/2019/08/04/titus-213-and-2-peter-11-what-is-the-long-debated-controversial-granville-sharp-rule/
-**URL (secondary):** https://theopedia.com/granville-sharps-rule
+**URL (primary):** [christianpublishinghouse.co](https://christianpublishinghouse.co/2019/08/04/titus-213-and-2-peter-11-what-is-the-long-debated-controversial-granville-sharp-rule/)
+**URL (secondary):** [theopedia.com](https://theopedia.com/granville-sharps-rule)
 **Key claims:**
 - Granville Sharp (1798) formulated the rule: when two singular, personal nouns appear under one article linked by "and" (article-noun-kai-noun), they designate the same individual
 - Applied to Titus 2:13 Greek: "tou megalou theou kai soteros" (the great God and Savior) — under the rule, both "God" and "Savior" refer to Jesus Christ
@@ -95,7 +95,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### Biblical Unitarian — Isaiah 43:11 (BiblicalUnitarian.com)
-**URL:** https://www.biblicalunitarian.com/verses/isaiah-43-11
+**URL:** [biblicalunitarian.com](https://www.biblicalunitarian.com/verses/isaiah-43-11)
 **Key claims (anti-deity position):**
 - Rejects the syllogism "Jesus is savior + God is the only savior = Jesus is God" as flawed reasoning
 - Argues "no savior" refers to specific types of salvation, not all rescue universally
@@ -108,7 +108,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### "Did Jesus Accept Worship in the Bible?" (AccordingToTheBible)
-**URL:** https://accordingtothebiblebooks.com/did-jesus-accept-worship-in-the-bible/
+**URL:** [accordingtothebiblebooks.com](https://accordingtothebiblebooks.com/did-jesus-accept-worship-in-the-bible/)
 **Key claims:**
 - Catalogues seven specific instances where Jesus accepted worship: Matt 8:2 (leper), 9:18 (ruler), 14:33 (disciples after walking on water), John 9:35-38 (blind man), Matt 28:9 (post-resurrection), Matt 28:17 (disciples), Luke 24:52 (ascension)
 - Contrasts with two refusal instances: Rev 22:8-9 (angel), Acts 10:25-26 (Peter)
@@ -119,7 +119,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### Philippians 2:9-11 and Isaiah 45:23 — Multiple Sources
-**URL (primary):** https://appliedapologetics.wordpress.com/2012/03/15/exegesis-of-philippians-25-11-verses-10-11/
+**URL (primary):** [appliedapologetics.wordpress.com](https://appliedapologetics.wordpress.com/2012/03/15/exegesis-of-philippians-25-11-verses-10-11/)
 **Key claims:**
 - Paul directly transfers Isaiah 45:23's YHWH-exclusive language ("every knee shall bow") to Jesus in Phil 2:10-11
 - In Isaiah, YHWH is the kyrios to whom every knee bows; in Philippians, Jesus is the kyrios
@@ -131,7 +131,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### John 20:28 — Thomas's Confession (Multiple Commentary Sources)
-**URL:** https://biblehub.com/commentaries/john/20-28.htm
+**URL:** [biblehub.com](https://biblehub.com/commentaries/john/20-28.htm)
 **Key claims:**
 - Thomas's confession "My Lord and my God" (ho kyrios mou kai ho theos mou) is described as "the strongest, most explicit affirmation of Jesus's full deity in the entire Gospel of John"
 - The repeated pronoun "my" makes this a personal confession directed TO Jesus, not an exclamation to the Father
@@ -144,7 +144,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### Hebrews 7:16 — "Indestructible Life" (Academia.edu, paywalled)
-**URL:** https://www.academia.edu/87583353/_You_are_a_Priest_Forever_Jesus_Indestructible_Life_in_Hebrews_7_16
+**URL:** [academia.edu](https://www.academia.edu/87583353/_You_are_a_Priest_Forever_Jesus_Indestructible_Life_in_Hebrews_7_16)
 **Key claims (from abstract/preview):**
 - Academic paper analyzing the phrase "power of an indestructible life" (dynamis zoes akatalutou)
 - Scholars propose interpretations: (a) exalted life, (b) resurrection life, (c) divine life — all crucial for Jesus' eternal priesthood
@@ -157,7 +157,7 @@ If Jesus is not God but a created being or merely a perfect human, what logical 
 ---
 
 ### Hebrews 9:12 "Eternal Redemption" and 7:25 "Ever Lives" — BibleRef/BibleStudyTools
-**URL:** https://www.bibleref.com/Hebrews/7/Hebrews-7-25.html
+**URL:** [bibleref.com](https://www.bibleref.com/Hebrews/7/Hebrews-7-25.html)
 **Key claims:**
 - Heb 7:25: Jesus "is able to save completely those who draw near to God through Him, since He always lives to intercede for them"
 - "Where a human priest would fall short, Christ can save us entirely, since His priesthood is unending"

@@ -8,7 +8,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 ## Sources Found
 
 ### Larry W. Hurtado — *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity* (Eerdmans, 2003)
-**URL:** https://pursuingveritas.com/2015/11/16/book-review-lord-jesus-christ-hurtado/
+**URL:** [pursuingveritas.com](https://pursuingveritas.com/2015/11/16/book-review-lord-jesus-christ-hurtado/)
 **Key claims:**
 - Hurtado argues that "exalted views of Jesus emerge well within the first decades of Christianity" — not centuries later. He calls the inauguration of early Christ-devotion a "big bang, an explosively rapid and impressively substantial Christological development in the earliest stage of the Christian movement."
 - Paul's communities practiced "functionally binitarian worship" — treating both God the Father and Jesus as divine figures simultaneously within a monotheistic framework.
@@ -19,7 +19,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead to verify against Scripture
 
 ### Larry W. Hurtado — "YHWH Texts and Jesus: A Follow-up" (Blog, 2019)
-**URL:** https://larryhurtado.wordpress.com/2019/05/07/yhwh-texts-and-jesus-a-follow-up/
+**URL:** [larryhurtado.wordpress.com](https://larryhurtado.wordpress.com/2019/05/07/yhwh-texts-and-jesus-a-follow-up/)
 **Key claims:**
 - Paul deliberately applied OT YHWH texts to Jesus in multiple letters. Specific examples:
   - Romans 10:13 applies Joel 2:32 (calling on the name of YHWH) to Jesus
@@ -35,7 +35,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead to verify against Scripture — check each OT-to-NT quotation pair
 
 ### Richard Bauckham — *Jesus and the God of Israel: God Crucified and Other Studies on the NT's Christology of Divine Identity* (Eerdmans, 2008)
-**URL:** https://davidschrock.com/2009/03/15/bauckhams-god-crucified/
+**URL:** [davidschrock.com](https://davidschrock.com/2009/03/15/bauckhams-god-crucified/)
 **Key claims:**
 - Central thesis: "the highest possible Christology — the inclusion of Jesus in the unique divine identity — was central to the faith of the early church even before any of the New Testament writings were written, since it occurs in all of them" (p. 19).
 - Bauckham employs the term "divine identity" rather than "divine nature" to reframe Christology within Second Temple Jewish monotheism. He argues this takes us "beyond the fundamentally misleading contrast between 'functional' and 'ontic' Christology" (p. 30).
@@ -45,7 +45,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead to verify against Scripture
 
 ### Michael J. Kruger — "Was the Divinity of Jesus a Late Invention of the Council of Nicea?" (Canon Fodder blog)
-**URL:** https://michaeljkruger.com/was-the-divinity-of-jesus-a-late-invention-of-the-council-of-nicea/
+**URL:** [michaeljkruger.com](https://michaeljkruger.com/was-the-divinity-of-jesus-a-late-invention-of-the-council-of-nicea/)
 **Key claims:**
 - 1 Corinthians 8:5-6: Paul incorporates Jesus into the Shema (Deut 6:4), applying "Lord" (kyrios) to Jesus and attributing divine creative action ("through whom are all things") to him. This "represents one of the earliest creedal statements."
 - Philippians 2:6-11: Contains "pre-Nicene hymnic material" affirming pre-existence, incarnation, and exaltation, applying Isaiah 45:23 (where YHWH alone receives worship) to Christ.
@@ -56,7 +56,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead to verify against Scripture
 
 ### Bart D. Ehrman — *How Jesus Became God* (HarperOne, 2014) / Ehrman Blog on Nicaea
-**URL:** https://ehrmanblog.org/the-council-of-nicaea-and-the-resulting-view-of-christ/
+**URL:** [ehrmanblog.org](https://ehrmanblog.org/the-council-of-nicaea-and-the-resulting-view-of-christ/)
 **Key claims:**
 - Ehrman explicitly states: "everyone at the council already fully believed Christ was God. The question was: in what sense?"
 - He emphasizes this was "NOT when church Fathers decided... that Jesus was divine (even though that's what you read in the Da Vinci Code!!)."
@@ -69,7 +69,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead to verify against Scripture — test Ehrman's "evolutionary Christology" against actual NT dating
 
 ### Philippians 2:5-11 — Scholarly Analysis of the "Christ Hymn"
-**URL:** https://journals.sagepub.com/doi/abs/10.1177/1476993x13504167 (abstract); https://www.psephizo.com/reviews/what-does-pauls-christ-hymn-in-philippians-2-actually-tell-us/
+**URL:** [journals.sagepub.com](https://journals.sagepub.com/doi/abs/10.1177/1476993x13504167) (abstract); [psephizo.com](https://www.psephizo.com/reviews/what-does-pauls-christ-hymn-in-philippians-2-actually-tell-us/)
 **Key claims:**
 - Scholarly consensus holds that Philippians 2:6-11 reflects an early Christian hymn, likely pre-Pauline. Debate centers on whether Paul composed it, adapted a pre-existing hymn, or received it from the Philippians.
 - W. G. Kummel affirms Paul "incorporated early shaped elements from primitive traditions" including Phil 2:6-11, Rom 1:3-4, 1 Cor 15:3-5, and Col 1:15-20.
@@ -80,7 +80,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead to verify against Scripture
 
 ### 1 Corinthians 8:6 — The "Christian Shema"
-**URL:** https://seminaryramblings.wordpress.com/2012/09/26/the-shema-and-1-cor-86/
+**URL:** [seminaryramblings.wordpress.com](https://seminaryramblings.wordpress.com/2012/09/26/the-shema-and-1-cor-86/)
 **Key claims:**
 - Paul has "divided the Shema between God and Christ," applying to God two prepositions describing Creator-relationship ("from" and "for/to") and the third ("through") to Christ.
 - The verse stands as "one of the earliest data points for a christologically reformulated monotheism: Father and Son are jointly confessed within the unique divine identity, yet personally distinguished."
@@ -90,7 +90,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead to verify against Scripture
 
 ### Maranatha — Pre-Pauline Aramaic Prayer (1 Corinthians 16:22)
-**URL:** https://medium.com/@mjkelleyII/the-aramaic-prayer-maranatha-in-1-corinthians-16-22-a-christological-analysis-2131a53d6d40
+**URL:** [medium.com](https://medium.com/@mjkelleyII/the-aramaic-prayer-maranatha-in-1-corinthians-16-22-a-christological-analysis-2131a53d6d40)
 **Key claims:**
 - "Maranatha" is Aramaic for "Our Lord, come" (*maran* = "Lord," *atha* = "come").
 - "The expression certainly comes from circles of Aramaic-speaking Jewish Christians" — indicating it predates the Gentile mission and Paul's Greek-language letters.
@@ -100,7 +100,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead to verify against Scripture
 
 ### Pliny the Younger — Letter to Emperor Trajan (c. 112 AD)
-**URL:** https://earlychurchhistory.org/politics/plinys-letter-to-trajan-about-christians/ ; https://www.biola.edu/blogs/good-book-blog/2017/what-pliny-the-younger-learned-when-he-interrogated-christians-ca-a-d-110
+**URL:** [earlychurchhistory.org](https://earlychurchhistory.org/politics/plinys-letter-to-trajan-about-christians/) ; [biola.edu](https://www.biola.edu/blogs/good-book-blog/2017/what-pliny-the-younger-learned-when-he-interrogated-christians-ca-a-d-110)
 **Key claims:**
 - Pliny, Roman governor of Bithynia-Pontus, wrote to Emperor Trajan c. 112 AD seeking guidance on handling Christians.
 - Christians "assembled on a fixed day before dawn" and "recited an antiphonal ode to Christ as to a god" (Latin: *carmenque Christo quasi deo dicere secum invicem*).
@@ -112,7 +112,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead — non-Christian historical evidence to correlate with NT devotional practices
 
 ### Ignatius of Antioch — Letters (c. 108-117 AD)
-**URL:** https://tonypetersen.wordpress.com/2021/01/19/prototrinitarianism-in-the-thought-of-ignatius-of-antioch/
+**URL:** [tonypetersen.wordpress.com](https://tonypetersen.wordpress.com/2021/01/19/prototrinitarianism-in-the-thought-of-ignatius-of-antioch/)
 **Key claims (direct quotations from Ignatius):**
 - **To the Romans (greeting):** "to the church... Jesus Christ, our God"
 - **To the Ephesians:** Explicitly refers to "Christ as God" in the letter opening
@@ -125,7 +125,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead — post-apostolic patristic evidence; verify NT passages Ignatius is echoing
 
 ### Justin Martyr — *First Apology* (c. 155-160 AD)
-**URL:** https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.xxiii.html ; https://www.newadvent.org/fathers/0126.htm
+**URL:** [ccel.org](https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.xxiii.html) ; [newadvent.org](https://www.newadvent.org/fathers/0126.htm)
 **Key claims:**
 - Justin states that Christ, "being the First-Begotten Word of God, IS EVEN GOD."
 - "Jesus Christ is the only proper Son who has been begotten by God, being His Word and first-begotten, and power; and, becoming man according to His will, He taught us these things for the conversion and restoration of the human race."
@@ -135,7 +135,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead — ante-Nicene patristic evidence
 
 ### Kyrios Title — NT Usage and Septuagint Background
-**URL:** https://en.wikipedia.org/wiki/Kyrios ; https://larryhurtado.wordpress.com/2019/05/07/yhwh-texts-and-jesus-a-follow-up/
+**URL:** [en.wikipedia.org](https://en.wikipedia.org/wiki/Kyrios) ; [larryhurtado.wordpress.com](https://larryhurtado.wordpress.com/2019/05/07/yhwh-texts-and-jesus-a-follow-up/)
 **Key claims:**
 - Kyrios (Greek: kurios) appears approximately 7,000 times in the Septuagint translating YHWH, and approximately 740 times in the Koine Greek NT, usually referring to Jesus.
 - "Most scholars agree that the use of kyrios, and hence the Lordship of Jesus, predated the Pauline Epistles, but Saint Paul expanded and elaborated on the topic."
@@ -146,7 +146,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead to verify against Scripture — study G2962 kurios usage patterns
 
 ### NT Document Dating — Scholarly Consensus
-**URL:** https://www.bartehrman.com/when-was-the-new-testament-written/ ; https://uncanon.app/learn/when-was-the-new-testament-written
+**URL:** [bartehrman.com](https://www.bartehrman.com/when-was-the-new-testament-written/) ; [uncanon.app](https://uncanon.app/learn/when-was-the-new-testament-written)
 **Key claims:**
 - **Earliest:** 1 Thessalonians c. 50 AD (possibly Galatians, late 40s) — "the oldest surviving Christian document"
 - **Paul's undisputed letters:** 50s AD (1-2 Corinthians, Galatians, Romans, Philippians, 1 Thessalonians, Philemon)
@@ -161,7 +161,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Historical framework for the study
 
 ### Thomas's Confession — John 20:28
-**URL:** https://biblehub.com/study/john/20-28.htm ; https://www.monergism.com/my-lord-and-my-god-john-2028
+**URL:** [biblehub.com](https://biblehub.com/study/john/20-28.htm) ; [monergism.com](https://www.monergism.com/my-lord-and-my-god-john-2028)
 **Key claims:**
 - Thomas's declaration "My Lord and my God!" (*ho kurios mou kai ho theos mou*) is "one of the clearest and most direct acknowledgments of Jesus' divinity in the New Testament."
 - Described as "the highest Christological confession in any Gospel" — surpassing earlier titles like Rabbi, Messiah, and Son of God.
@@ -171,7 +171,7 @@ Does the New Testament itself — written 200+ years before the Council of Nicae
 **Status:** Lead to verify against Scripture
 
 ### Romans 9:5 and Titus 2:13 — Paul Calling Christ "God"
-**URL:** https://trinitynotes.blogspot.com/2014/05/romans-95-and-christs-deity.html ; https://av1611.com/kjbp/faq/holland_tit2_13.html
+**URL:** [trinitynotes.blogspot.com](https://trinitynotes.blogspot.com/2014/05/romans-95-and-christs-deity.html) ; [av1611.com](https://av1611.com/kjbp/faq/holland_tit2_13.html)
 **Key claims:**
 - Romans 9:5: "whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever." Scholars Metzger and Moo hold that reading A (identifying Christ as "God over all") "makes best sense of Paul's syntax." However, punctuation affects interpretation — a period after "flesh" turns the next clause into a doxology to the Father.
 - Titus 2:13: "the glorious appearing of the great God and our Saviour Jesus Christ." Granville Sharp's rule in Greek grammar (when two nouns of the same case are joined by kai with the article before the first but not the second, they refer to the same person) makes this a direct identification of Jesus as "the great God."

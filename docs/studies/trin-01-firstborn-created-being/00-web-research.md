@@ -6,7 +6,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 ## Sources Found
 
 ### Alistair I. Wilson — "What Does Colossians 1:15 Mean?" (Crossway, undated)
-**URL:** https://www.crossway.org/articles/what-does-colossians-115-mean/
+**URL:** [crossway.org](https://www.crossway.org/articles/what-does-colossians-115-mean/)
 **Author credentials:** PhD, University of Aberdeen; lecturer in New Testament at Edinburgh Theological Seminary
 **Key claims:**
 - "Firstborn" functions figuratively rather than literally in Colossians 1:15, denoting exaltation and supremacy rather than birth order
@@ -19,7 +19,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Lead to verify against Scripture
 
 ### Christopher A. Beetham — "Was Christ the First and Greatest Creation of God? (Colossians 1)" (Crossway, undated)
-**URL:** https://www.crossway.org/articles/was-christ-the-first-and-greatest-creation-of-god-colossians-1/
+**URL:** [crossway.org](https://www.crossway.org/articles/was-christ-the-first-and-greatest-creation-of-god-colossians-1/)
 **Author credentials:** PhD, Wheaton College; Senior Editor at Zondervan Academic
 **Key claims:**
 - "Context is king and determinative for meaning" — the meaning of "firstborn" must be settled by its surrounding context, not lexical range alone
@@ -31,7 +31,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Lead to verify against Scripture
 
 ### Matt Neal — "Colossians 1:15 – 'Firstborn of all creation'" (Blog, 2012)
-**URL:** https://nealmatt.wordpress.com/2012/04/21/colossians-115-firstborn-of-all-creation/
+**URL:** [nealmatt.wordpress.com](https://nealmatt.wordpress.com/2012/04/21/colossians-115-firstborn-of-all-creation/)
 **Key claims:**
 - Two major genitive interpretations: partitive genitive (Christ as part of creation) vs. genitive of subordination/reference (Christ over creation)
 - Dan Wallace (*Greek Grammar Beyond the Basics*) argues for "Genitive of Reference" or "Genitive of Subordination," supporting translation "firstborn *over* all creation"
@@ -45,7 +45,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Lead to verify against Scripture
 
 ### Edgar Foster — "Partitive Genitives and Colossians 1:15" (Foster's Theological Reflections blog, 2016)
-**URL:** https://fosterheologicalreflections.blogspot.com/2016/11/partitive-genitives-and-colossians-115.html
+**URL:** [fosterheologicalreflections.blogspot.com](https://fosterheologicalreflections.blogspot.com/2016/11/partitive-genitives-and-colossians-115.html)
 **Key claims:**
 - Argues the partitive genitive reading of Colossians 1:15 is grammatically viable (contra those who dismiss it outright)
 - Cites Wallace (*Greek Grammar Beyond the Basics*, p. 84): "the partitive genitive...requires the head noun to have a lexical nuance indicating portion"
@@ -59,7 +59,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Lead to verify against Scripture
 
 ### Larry R. Helyer — "Arius Revisited: The Firstborn Over All Creation (Col 1:15)" (Journal of the Evangelical Theological Society 31:1, March 1988, pp. 59-60+)
-**URL:** https://www.galaxie.com/article/jets31-1-06
+**URL:** [galaxie.com](https://www.galaxie.com/article/jets31-1-06)
 **Author credentials:** Associate professor at Taylor University
 **Key claims:**
 - The expression "remains one of the unsolved problems of the New Testament" (Helyer's own assessment)
@@ -69,7 +69,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Paywalled — title, author, and abstract noted; full arguments not available
 
 ### Dr. Ken Baker — "The 'Prototokos' Christ (Col 1:15-20)" (Blog, 2018)
-**URL:** https://tithebarn.wordpress.com/2018/11/20/the-protokos-christ-col-115-20/
+**URL:** [tithebarn.wordpress.com](https://tithebarn.wordpress.com/2018/11/20/the-protokos-christ-col-115-20/)
 **Key claims:**
 - Christ's dual designation as "firstborn of creation" (v.15) and "firstborn from the dead" (v.18) creates a profound theological connection: "resurrection is essentially an act of creation — not resuscitation, but re-creation"
 - Prototokos appears 116 times in the Bible (mostly LXX), only 8 times in the NT
@@ -81,7 +81,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Lead to verify against Scripture
 
 ### Matt Neal — "Revelation 3:14 – 'Beginning of the creation of God'" (Blog, 2012)
-**URL:** https://nealmatt.wordpress.com/2012/06/29/revelation-314-beginning-of-the-creation-of-god/
+**URL:** [nealmatt.wordpress.com](https://nealmatt.wordpress.com/2012/06/29/revelation-314-beginning-of-the-creation-of-god/)
 **Key claims:**
 - Three primary interpretations of arche tes ktiseos tou theou: (1) Jesus as first created being, (2) Jesus as source/originator, (3) Jesus as ruler
 - Statistical analysis of arche: 55 NT occurrences, 172 LXX occurrences, 64 Apocrypha occurrences
@@ -96,7 +96,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Lead to verify against Scripture
 
 ### OnlyTrueGod.org — "Revelation 3:14" (undated)
-**URL:** https://onlytruegod.org/defense/revelation3.14.htm
+**URL:** [onlytruegod.org](https://onlytruegod.org/defense/revelation3.14.htm)
 **Key claims (representing the non-Trinitarian/Unitarian position):**
 - Arche at Rev 3:14 means "beginning" temporally — Christ was the first created being
 - Rev. W.H. Simcox (Cambridge Greek Testament) conceded the Greek "might grammatically be used of the first of creatures"
@@ -114,7 +114,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Lead to verify against Scripture
 
 ### CARM.org — "Revelation 3:14, the beginning of creation" (undated)
-**URL:** https://carm.org/jehovahs-witnesses/revelation-314-the-beginning-of-creation/
+**URL:** [carm.org](https://carm.org/jehovahs-witnesses/revelation-314-the-beginning-of-creation/)
 **Key claims:**
 - BDAG (pp. 137-138) provides multiple definitions for arche: "beginning" as first in sequence, "origin/source," "the one with whom a process begins," and "ruler/authority"
 - In Greek philosophy, arche represented "the eternal absolute from which all created things are derived" (cites Aristotle, *Metaphysics* I.983b)
@@ -123,7 +123,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Lead to verify against Scripture
 
 ### BibleHub Commentaries — Colossians 1:15 (multiple commentators)
-**URL:** https://biblehub.com/commentaries/colossians/1-15.htm
+**URL:** [biblehub.com](https://biblehub.com/commentaries/colossians/1-15.htm)
 **Key claims (synthesized from multiple classical commentaries):**
 - **Meyer:** The phrase denotes Christ's "present existence" and "state of exaltation," not merely pre-incarnate nature
 - **Ellicott:** "The grammatical construction here will bear either the rendering of our version, or the rendering 'begotten before all creation'" — context proves the latter correct, supported by the gar introducing v.16
@@ -139,7 +139,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Lead to verify against Scripture
 
 ### Proclaim & Defend — "Straight Cuts: Christ as Firstborn (Colossians 1:15)" (2017)
-**URL:** https://www.proclaimanddefend.org/2017/04/26/straight-cuts-christ-as-firstborn-colossians-115/
+**URL:** [proclaimanddefend.org](https://www.proclaimanddefend.org/2017/04/26/straight-cuts-christ-as-firstborn-colossians-115/)
 **Key claims:**
 - Paul employed prototokos rather than protoktistos (first created) — "had Paul wanted to express the idea that Christ was the first created being, he could have used another Greek word"
 - Chrysostom noted in Homilies on Colossians (1.3): "But, he said not 'first created,' but 'firstborn'"
@@ -150,7 +150,7 @@ What does "firstborn of all creation" (prototokos pases ktiseos) mean in Colossi
 **Status:** Lead to verify against Scripture
 
 ### Dr. Bechtle — "Prototokos – The Firstborn Son" (Ezra Project, undated)
-**URL:** https://ezraproject.com/prototokos-the-firstborn-son/
+**URL:** [ezraproject.com](https://ezraproject.com/prototokos-the-firstborn-son/)
 **Key claims:**
 - Prototokos appears approximately 8 times in the NT
 - Dual semantic range: "first in time sequence, the first to be born" or "first in position or honor"

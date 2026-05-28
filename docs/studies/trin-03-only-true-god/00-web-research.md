@@ -9,7 +9,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 1. Richard Bauckham — *Jesus and the God of Israel: God Crucified and Other Studies on the New Testament's Christology of Divine Identity* (Eerdmans, 2008)
 
-**URL:** https://growrag.org/2018/12/11/jesus-the-great-shema-of-israel-in-i-corinthians-8-6/ (summary); reviewed at https://denverjournal.denverseminary.edu/the-denver-journal-article/god-crucified-monotheism-and-christology-in-the-new-testament/ (reviewed by Craig L. Blomberg)
+**URL:** [growrag.org](https://growrag.org/2018/12/11/jesus-the-great-shema-of-israel-in-i-corinthians-8-6/) (summary); reviewed at [denverjournal.denverseminary.edu](https://denverjournal.denverseminary.edu/the-denver-journal-article/god-crucified-monotheism-and-christology-in-the-new-testament/) (reviewed by Craig L. Blomberg)
 
 **Key claims:**
 - Paul deliberately produces a "Christian version of the Shema" in 1 Cor 8:6, including Jesus within the unique divine identity of Israel's God
@@ -30,7 +30,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 2. N.T. Wright — *The Climax of the Covenant* (Fortress, 1992)
 
-**URL:** Cited in https://www.postost.net/2015/11/jesus-included-divine-identity-1-corinthians-86
+**URL:** Cited in [postost.net](https://www.postost.net/2015/11/jesus-included-divine-identity-1-corinthians-86)
 
 **Key claims:**
 - Direct quote: "Paul has placed Jesus *within* an explicit statement... of the doctrine that Israel's God is the one and only God, the creator of the world" and "has redefined it christologically, producing what we can only call a sort of Christological monotheism" (*Climax of the Covenant*, 129)
@@ -45,7 +45,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 3. Gordon Fee — *The First Epistle to the Corinthians* (NICNT, 1987)
 
-**URL:** Cited in https://www.postost.net/2015/11/jesus-included-divine-identity-1-corinthians-86
+**URL:** Cited in [postost.net](https://www.postost.net/2015/11/jesus-included-divine-identity-1-corinthians-86)
 
 **Key claims:**
 - Direct quote: "He has kept the 'one' intact, but he has divided the Shema into two parts, with theos (God) now referring to the Father, and kyrios (Lord) referring to Jesus Christ" (*First Corinthians*, 90)
@@ -61,7 +61,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 4. Andrew Perriman — "Is Jesus included in the 'divine identity' in 1 Corinthians 8:6?" (postost.net, 2015)
 
-**URL:** https://www.postost.net/2015/11/jesus-included-divine-identity-1-corinthians-86
+**URL:** [postost.net](https://www.postost.net/2015/11/jesus-included-divine-identity-1-corinthians-86)
 
 **Key claims (counter-argument to Bauckham/Wright):**
 - Paul does NOT quote the Shema verbatim in 8:4 — he already drops kyrios. Why quote incompletely if intending a deliberate Shema division?
@@ -81,7 +81,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 5. Brant Pitre — "Monotheism and the Divinity of Jesus According to Paul" (Catholic Productions)
 
-**URL:** https://catholicproductions.com/blogs/blog/monotheism-and-the-divinity-of-jesus-according-to-paul
+**URL:** [catholicproductions.com](https://catholicproductions.com/blogs/blog/monotheism-and-the-divinity-of-jesus-according-to-paul)
 
 **Key claims:**
 - Paul applies OT monotheistic passages directly to Jesus: Isaiah 45:23 ("To me every knee shall bow, every tongue shall swear") is reformulated in Philippians 2:9-11 ("at the name of Jesus every knee should bow... every tongue confess that Jesus Christ is Lord")
@@ -97,7 +97,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 6. Cross Theology — "Does John 17:3 teach Unitarianism?" (crosstheology.wordpress.com)
 
-**URL:** https://crosstheology.wordpress.com/does-john-17-3-teach-unitarianism/
+**URL:** [crosstheology.wordpress.com](https://crosstheology.wordpress.com/does-john-17-3-teach-unitarianism/)
 
 **Key claims:**
 - John 17:3 in isolation appears to exclude Jesus from deity, but the full chapter context contradicts this reading
@@ -119,7 +119,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 7. Daniel Wallace — *Greek Grammar Beyond the Basics* (Zondervan, 1996) [on Colwell's Rule and John 1:1]
 
-**URL:** https://dangitbill.wordpress.com/2007/06/05/colwells-rule-and-its-implications-for-john-11c/
+**URL:** [dangitbill.wordpress.com](https://dangitbill.wordpress.com/2007/06/05/colwells-rule-and-its-implications-for-john-11c/)
 
 **Key claims:**
 - Colwell's original rule (JBL 52, 1933, pp. 12-21): "Definite predicate nouns which precede the verb usually lack the article"
@@ -139,7 +139,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 8. Murray J. Harris — on John 20:28 (Thomas's Confession)
 
-**URL:** https://en.wikipedia.org/wiki/John_20:28 (summarizing Harris's work)
+**URL:** [en.wikipedia.org](https://en.wikipedia.org/wiki/John_20:28) (summarizing Harris's work)
 
 **Key claims:**
 - Thomas's words "My Lord and my God" (ho kyrios mou kai ho theos mou) represent "the crowning christological affirmation of the Fourth Gospel"
@@ -160,7 +160,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 9. Romans 9:5 Punctuation Debate — Metzger and Text-Critical Scholarship
 
-**URL:** https://www.textandtranslation.org/the-new-perspective-on-romans-95/
+**URL:** [textandtranslation.org](https://www.textandtranslation.org/the-new-perspective-on-romans-95/)
 
 **Key claims:**
 - The original Greek manuscripts lacked punctuation, creating the central ambiguity
@@ -184,7 +184,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 10. Granville Sharp Rule — Applied to Titus 2:13 and 2 Peter 1:1
 
-**URL:** https://christianpublishinghouse.co/2019/08/04/titus-213-and-2-peter-11-what-is-the-long-debated-controversial-granville-sharp-rule/
+**URL:** [christianpublishinghouse.co](https://christianpublishinghouse.co/2019/08/04/titus-213-and-2-peter-11-what-is-the-long-debated-controversial-granville-sharp-rule/)
 
 **Key claims:**
 - Sharp's rule (1798): when two singular, personal nouns appear under one article linked by kai, they must designate the same individual
@@ -203,7 +203,7 @@ When Jesus says "the only true God" (John 17:3) and Paul says "one God, the Fath
 
 ### 11. A.T. Robertson and Robert Reymond — on John 17:5 Pre-existence
 
-**URL:** https://christiandefense.org/deity-of-christ/john-175-the-preexistent-christ/
+**URL:** [christiandefense.org](https://christiandefense.org/deity-of-christ/john-175-the-preexistent-christ/)
 
 **Key claims:**
 - The aorist imperative doxason ("glorify") in John 17:5 is a command-form, not merely a request — Daniel Wallace: "with the aorist, the force generally is to command the action as a whole"

@@ -6,7 +6,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ## Sources Found
 
 ### Keith E. Johnson — "Trinitarian Agency and the Eternal Subordination of the Son: An Augustinian Perspective" (Themelios, Vol. 36, Issue 1)
-**URL:** https://www.thegospelcoalition.org/themelios/article/trinitarian-agency-and-the-eternal-subordination-of-the-son-an-augustinian-perspective/
+**URL:** [thegospelcoalition.org](https://www.thegospelcoalition.org/themelios/article/trinitarian-agency-and-the-eternal-subordination-of-the-son-an-augustinian-perspective/)
 **Key claims:**
 - Augustine's framework: "The divine persons act inseparably *ad extra* according to their relative properties *ad intra*." The Father generates the Son eternally; the Son eternally proceeds from the Father. This ordering does not imply ontological or functional subordination — it describes the Son's eternal mode of existence as "from the Father."
 - On John 5:19 ("Son can do nothing of his own accord"): Augustine interprets this through inseparable operation — the Father and Son work together, not sequentially. The Son's inability to act independently reflects his derivative existence (eternal generation), not inferiority.
@@ -20,7 +20,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### Kevin Giles — "The Doctrine of the Trinity and Subordination" (Priscilla Papers, CBE International, July 31, 2004)
-**URL:** https://www.cbeinternational.org/resource/doctrine-trinity-and-subordination/
+**URL:** [cbeinternational.org](https://www.cbeinternational.org/resource/doctrine-trinity-and-subordination/)
 **Key claims:**
 - "To eternally subordinate the Son or Spirit in work/function by necessity implies their ontological subordination." Giles rejects the modern evangelical claim of eternal functional subordination without ontological subordination, calling it "entirely novel" with "no historical antecedents."
 - Athanasius established the orthodox approach: the Son has "eternal divine status" but demonstrates "voluntary and temporal subordination" during incarnation.
@@ -38,7 +38,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### Kristin Johnson — "Just as the Father, So the Son: The Implications of John 5:16-30" (Priscilla Papers, CBE International, January 31, 2005)
-**URL:** https://www.cbeinternational.org/resource/just-father-so-son/
+**URL:** [cbeinternational.org](https://www.cbeinternational.org/resource/just-father-so-son/)
 **Key claims:**
 - When Jewish leaders accused Jesus of "making himself equal to God" (John 5:18), Jesus did not deny equality but clarified that His equality derived from the Father's gift, not independent grasping.
 - "The Son can do nothing by himself" (v.19) affirms rather than refutes equality: "Jesus is not refuting the claim that he is equal to the Father; he is refuting the claim that *he made himself equal* to the Father, as if he were independent of him."
@@ -55,7 +55,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### Jon Harris — "The Father Is Greater Than I: What Did Jesus Mean?" (Pfander Center)
-**URL:** https://www.pfandercenter.org/blog/articles/the-father-is-greater-than-i-what-did-jesus-mean
+**URL:** [pfandercenter.org](https://www.pfandercenter.org/blog/articles/the-father-is-greater-than-i-what-did-jesus-mean)
 **Key claims:**
 - *Meizon* (greater) in John 14:28 refers to positional superiority, not ontological inferiority. Jesus contrasts his earthly state of humiliation with the Father's celestial position.
 - The verse functions as a causal clause introduced by *hoti* (because): "the statement does not stand alone" but explains why disciples should rejoice at Jesus' departure. Focus is on Jesus' destination and motion, not his essence.
@@ -71,7 +71,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### Dr. Georgy Mathew Alexios — "How is the Father Greater than Jesus?" (Pointer to Eternity, August 12, 2020)
-**URL:** https://pointertoeternity.com/question-answer/how-is-the-father-greater-than-jesus/
+**URL:** [pointertoeternity.com](https://pointertoeternity.com/question-answer/how-is-the-father-greater-than-jesus/)
 **Key claims:**
 - The Father surpasses Jesus in office and function, not in nature or essence.
 - *Meizon* (greater) = positional superiority; *kreitton* (better) = superiority in nature/essence. Jesus deliberately chose "greater" rather than "better."
@@ -84,7 +84,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### Wyatt Graham — "Does 1 Corinthians 15:28 Teach the Son's Eternal Subordination?" (June 6, 2019)
-**URL:** https://www.wyattgraham.com/p/does-1-corinthians-1528-teach-the-sons-eternal-subordination-answer-no-it-teaches-our-spiritual-transformation-in-christ
+**URL:** [wyattgraham.com](https://www.wyattgraham.com/p/does-1-corinthians-1528-teach-the-sons-eternal-subordination-answer-no-it-teaches-our-spiritual-transformation-in-christ)
 **Key claims:**
 - 1 Cor 15:28 describes spiritual transformation of humanity, not eternal subordination of the Son: "For God to be in all at the end, evil must be absent. The dead, corruptible, sinful bodies of flesh bearing of Adam submit to God's salvific transformation."
 - The passage uses an Adam-Christ typological framework — Christ as "new Adam" transforms humanity from physical to spiritual beings.
@@ -99,7 +99,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### Phil Gons — John Frame on 1 Corinthians 15:28 and Eternal Subordination (March 2008)
-**URL:** https://philgons.com/2008/03/john-frame-on-1-corinthians-1528-and-eternal-subordination/
+**URL:** [philgons.com](https://philgons.com/2008/03/john-frame-on-1-corinthians-1528-and-eternal-subordination/)
 **Key claims:**
 - John Frame argues the Son's subordination is eternal, grounded in Christ's perpetual humanity: "as Jesus remains both human and divine through all eternity, he will, as human servant, always be subject to the Father in these ways."
 - Frame links perpetual subordination to Christ's eternal human nature. Since Christ remains both divine and human forever, and no human — even glorified — can equal God, the Son will eternally be subject to the Father regarding His humanity.
@@ -113,7 +113,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### Edward D. Andrews — "Unveiling the Mystery of Mark 13:32: The Limits of the Son's Knowledge" (Christian Publishing House, September 3, 2023)
-**URL:** https://christianpublishinghouse.co/2023/09/03/unveiling-the-mystery-of-mark-1332-and-matthew-2436-the-limits-of-the-sons-knowledge/
+**URL:** [christianpublishinghouse.co](https://christianpublishinghouse.co/2023/09/03/unveiling-the-mystery-of-mark-1332-and-matthew-2436-the-limits-of-the-sons-knowledge/)
 **Key claims:**
 - Christ genuinely lacked knowledge of the timing during his earthly ministry. "Christ's incarnation...voluntarily limited certain divine prerogatives."
 - "His limitation in knowledge does not detract from Christ's divinity but rather underscores the profundity of His kenotic state."
@@ -129,7 +129,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### BibleHub Commentary Collection — Mark 13:32
-**URL:** https://biblehub.com/commentaries/mark/13-32.htm
+**URL:** [biblehub.com](https://biblehub.com/commentaries/mark/13-32.htm)
 **Key claims:**
 - **Bengel:** Interprets the statement relative to Christ's human nature and state of humiliation. Notes Jesus "increased in wisdom" (Luke 2:52). Suggests the knowledge was "not among His instructions, to declare."
 - **Meyer, Alford, Calvin, Grotius, De Wette:** Take the passage literally — Christ genuinely lacked this specific knowledge. Accept the statement without attempting to explain it away.
@@ -144,7 +144,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### Thomas Haviland-Pabst — Review of *Kenosis: The Self-Emptying of Christ in Scripture and Theology* (Reformed Faith & Practice, Vol. 8, Issue 1, Summer 2023)
-**URL:** https://journal.rts.edu/review/kenosis-the-self-emptying-of-christ-in-scripture-and-theology/
+**URL:** [journal.rts.edu](https://journal.rts.edu/review/kenosis-the-self-emptying-of-christ-in-scripture-and-theology/)
 **Book reviewed:** *Kenosis: The Self-Emptying of Christ in Scripture and Theology*, edited by Paul T. Nimmo and Keith L. Johnson (Eerdmans, 2022)
 **Key claims:**
 - John M.G. Barclay argues divine power operates fundamentally differently from human power: "Christ did not relinquish his divine power; rather, he expressed this power in the weakness of his humanity."
@@ -159,7 +159,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### Mike Riccardi — "The Recent Trinitarian Debate" (The Master's Seminary Blog, June 15, 2016)
-**URL:** https://blog.tms.edu/recent-trinitarian-debate
+**URL:** [blog.tms.edu](https://blog.tms.edu/recent-trinitarian-debate)
 **Key claims:**
 - EFS proponents argue the Son's submission extends eternally. Calling the Father "Father" and the Son "Son" implies an authority-submission relationship.
 - Critics maintain subordination requires two wills, which would necessitate two natures — leading to tritheism or Arianism.
@@ -172,7 +172,7 @@ What do John 14:28 ("the Father is greater than I"), John 5:19 ("the Son can do 
 ---
 
 ### JATS/ATS — Paper on Wayne Grudem's Trinitarian Subordinationism (ATS 2016)
-**URL:** https://www.atsjats.org/hausted-wayne-grudem%E2%80%99s-trinitarian-subordinationism-ats-2016.pdf
+**URL:** [atsjats.org](https://www.atsjats.org/hausted-wayne-grudem%E2%80%99s-trinitarian-subordinationism-ats-2016.pdf)
 **Key claims:** Full text not accessible (PDF binary). Based on the title and context, this appears to be a critique of Grudem's EFS position presented at the Adventist Theological Society in 2016. The author surname appears to be "Hausted."
 **Relevance:** Adventist scholarly engagement with the EFS debate. Would provide denominationally specific perspective. Text unavailable for extraction.
 **Status:** Paywalled/inaccessible — note existence only

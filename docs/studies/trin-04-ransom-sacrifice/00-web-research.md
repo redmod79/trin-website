@@ -6,7 +6,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ## Sources Found
 
 ### Ministry Magazine — "Atonement (c)—'Kopher' and 'Lutron'" (Ministry Magazine, April 1962)
-**URL:** https://www.ministrymagazine.org/archive/1962/04/atonement-(c)-kopher-and-lutron
+**URL:** [ministrymagazine.org](https://www.ministrymagazine.org/archive/1962/04/atonement-(c))-kopher-and-lutron
 **Key claims:**
 - Hebrew *kopher* fundamentally means "cover" rather than "ransom." Derives from describing farm shelters as coverings.
 - First biblical appearance is Genesis 6:14 (Noah's ark pitch covering), not a payment context.
@@ -22,7 +22,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### William Boekestein — "The Atonement and Jehovah's Witnesses" (Christian Study Library)
-**URL:** https://www.christianstudylibrary.org/article/atonement-and-jehovah%E2%80%99s-witnesses
+**URL:** [christianstudylibrary.org](https://www.christianstudylibrary.org/article/atonement-and-jehovah%E2%80%99s-witnesses)
 **Key claims:**
 - JWs teach that Christ's death is "a ransom that compensated exactly for what Adam lost — the right to perfect human life on earth."
 - The JW argument explicitly invokes Exodus 21:23 ("soul for soul, life for life") and 1 Corinthians 15:45 (Jesus as "last Adam") to demand exact equivalence.
@@ -37,7 +37,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Institute for Religious Research — "Is Jesus' death a 'corresponding ransom'?" (Witnesses in Transition)
-**URL:** https://wit.irr.org/jesus-death-corresponding-ransom
+**URL:** [wit.irr.org](https://wit.irr.org/jesus-death-corresponding-ransom)
 **Key claims:**
 - The Watchtower cites only John Parkhurst's 1769 lexicon, which defines *antilutron* as "a correspondent ransom." Editor Hugh James Rose (1829) warned that Parkhurst's etymological interpretations were "in the highest degree fanciful and uncertain."
 - Edmund Gruss commented: "It is doubtful that the lexicon by 'correspondent ransom' conveyed the same idea that the Witnesses have attributed to these words."
@@ -53,7 +53,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Reachout Trust — "The Ransom Doctrine of the Watchtower Society"
-**URL:** https://reachouttrust.org/ransom-doctrine/
+**URL:** [reachouttrust.org](https://reachouttrust.org/ransom-doctrine/)
 **Key claims:**
 - Watchtower relies on Charles Taze Russell's interpretation that *antilutron* means "a price that corresponds."
 - The Watchtower added the word "corresponding" to their Kingdom Interlinear translation of 1 Timothy 2:6, though "they don't tell anyone that they added to the text."
@@ -68,7 +68,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Precept Austin — Hebrews 9:13-14 Commentary
-**URL:** https://www.preceptaustin.org/hebrews_913-14
+**URL:** [preceptaustin.org](https://www.preceptaustin.org/hebrews_913-14)
 **Key claims:**
 - Two interpretive positions on "eternal Spirit" (Heb 9:14): (a) the Holy Spirit empowered Christ's sacrifice (F.F. Bruce, aligning with Isa 42:1); (b) Christ's "eternal Godhead" giving his offering infinite value (Spurgeon).
 - Leon Morris synthesis: both interpretations complement each other — "Christ's own spirit was involved in voluntary sacrifice, but so is the divine Spirit."
@@ -84,7 +84,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Precept Austin — 1 Timothy 6:16 Commentary
-**URL:** https://www.preceptaustin.org/1timothy_616_commentary
+**URL:** [preceptaustin.org](https://www.preceptaustin.org/1timothy_616_commentary)
 **Key claims:**
 - Greek *athanasia* (alpha + thanatos) literally means "without death" or "deathlessness."
 - Only God possesses immortality "intrinsically and essentially" as an attribute of His being. Believers merely *have* immortality as a gift.
@@ -101,7 +101,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Precept Austin — Hebrews 2:14-15 Commentary
-**URL:** https://www.preceptaustin.org/hebrews_214-15
+**URL:** [preceptaustin.org](https://www.preceptaustin.org/hebrews_214-15)
 **Key claims:**
 - *Katargeo* means "to render powerless" or "reduce to inactivity" — never annihilation (Vine). Spurgeon: "The devil is still alive, but his power in this world has received its death blow."
 - Two Greek verbs distinguished: humans share nature through *koinoneo* (common participation); Christ *metecho* (voluntarily "took hold of") humanity — something not naturally His own.
@@ -117,7 +117,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Jared Wilson / Gospel Coalition — "Christ Pays the Ransom, But To Whom?"
-**URL:** https://www.thegospelcoalition.org/blogs/trevin-wax/christ-pays-the-ransom-but-to-whom/
+**URL:** [thegospelcoalition.org](https://www.thegospelcoalition.org/blogs/trevin-wax/christ-pays-the-ransom-but-to-whom/)
 **Key claims:**
 - The ransom is paid to God the Father, not Satan. Wilson cites 1 Timothy 2:5-6: Christ serves as "mediator between God and men."
 - Against paying Satan: conceiving Satan as ransom recipient grants him excessive power. Satan is "not satisfied but actually defeated" at the cross (Heb 2:14-15) and "shamed" rather than compensated (Col 2:15).
@@ -129,7 +129,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Wikipedia — "Ransom Theory of Atonement" (survey of scholarly positions)
-**URL:** https://en.wikipedia.org/wiki/Ransom_theory_of_atonement
+**URL:** [en.wikipedia.org](https://en.wikipedia.org/wiki/Ransom_theory_of_atonement)
 **Key claims:**
 - Ransom theory emerged primarily through Origen of Alexandria, dominated 4th-11th centuries.
 - Classical formulation: humanity sold to Satan through the Fall; God pays devil a ransom. God "tricked the Devil" since Christ could not be held by death.
@@ -152,7 +152,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Letters to Creationists — "The Atonement Wars: What the Church Fathers Actually Wrote"
-**URL:** https://letterstocreationists.wordpress.com/2020/08/26/the-atonement-wars-what-the-church-fathers-actually-wrote/
+**URL:** [letterstocreationists.wordpress.com](https://letterstocreationists.wordpress.com/2020/08/26/the-atonement-wars-what-the-church-fathers-actually-wrote/)
 **Key claims:**
 - Earliest church fathers (100-180 AD) taught substitutionary atonement directed to God, not payment to Satan.
 - I Clement: "Let us look steadfastly to the blood of Christ...which...has set the grace of repentance before the whole world."
@@ -167,7 +167,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### GoServ Global — "Contrast Between Adam and Christ: Romans 5:15-17"
-**URL:** https://goservglobal.org/2021/05/24/contrast-between-adam-and-christ-romans-515-17/
+**URL:** [goservglobal.org](https://goservglobal.org/2021/05/24/contrast-between-adam-and-christ-romans-515-17/)
 **Key claims:**
 - "The free gift is not like the transgression" (Romans 5:15) — Paul explicitly denies equivalence.
 - The "much more" (*pollo mallon*) argument structure shows Christ's grace produces even greater effects than Adam's sin produced condemnation.
@@ -180,7 +180,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Center for Excellence in Preaching — Romans 5:12-19 Commentary
-**URL:** https://cepreaching.org/commentary/2026-02-16/romans-512-19-4/
+**URL:** [cepreaching.org](https://cepreaching.org/commentary/2026-02-16/romans-512-19-4/)
 **Key claims:**
 - Paul repeatedly uses "if...how much more" (*ei...pollo mallon*) structure, professing that "if one person's sin wreaked havoc, another's obedience gave even more life."
 - The expression *pollo mallon* is composed of the adjective *polus* (much) and comparative adverb *mallon* (more), forming an a fortiori principle.
@@ -193,7 +193,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Bible commentary sources — John 10:17-18
-**URL:** https://biblehub.com/commentaries/john/10-18.htm (and related)
+**URL:** [biblehub.com](https://biblehub.com/commentaries/john/10-18.htm) (and related)
 **Key claims:**
 - Christ's death was "not an outcome of external compulsion, human weakness, or accidental circumstance, but rather a deliberate, voluntary act flowing from His own divine will."
 - Christ possesses "the intrinsic power and legitimate right, given by His Father, both to offer up His life and to reclaim it through resurrection."
@@ -205,7 +205,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Bible commentary sources — Hebrews 7:16
-**URL:** https://www.bibleref.com/Hebrews/7/Hebrews-7-16.html (and related)
+**URL:** [bibleref.com](https://www.bibleref.com/Hebrews/7/Hebrews-7-16.html) (and related)
 **Key claims:**
 - KJV: "the power of an endless life." CSB: "the power of an indestructible life."
 - Greek *akatalytou* = literally "indissoluble" or "unending."
@@ -218,7 +218,7 @@ What does Scripture teach about the nature of Christ's death and its sufficiency
 ---
 
 ### Bible commentary on Hebrews 2:14-16 — "Divine Destruction of Death"
-**URL:** https://bibleteacher.org/2024/03/03/divine-destruction-of-death-hebrews-214-16/
+**URL:** [bibleteacher.org](https://bibleteacher.org/2024/03/03/divine-destruction-of-death-hebrews-214-16/)
 **Key claims:**
 - Christ took human form specifically to die and thereby "destroy him that had the power of death, that is, the devil."
 - Spiritual death = separation from God (Source of Life); physical death follows. Adam experienced immediate spiritual death upon sinning despite living 930 years physically.
