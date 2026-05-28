@@ -36,6 +36,8 @@ COPY_FILES = [
     "01-topics.md",
     "PROMPT.md",
     "00-references.md",
+    "00-web-research.md",
+    "05-web-research.md",
 ]
 
 
