@@ -1,5 +1,3 @@
-# Bible Study: What does Scripture teach about the nature of Christ's death and its sufficiency as a ransom (lutron/antilutron)? Does the ransom require exact equivalence between Adam and Christ, and to whom is the ransom paid? Can God die, and did Jesus truly die?
-
 ## Question
 What does Scripture teach about the nature of Christ's death and its sufficiency as a ransom (lutron/antilutron)? Does the ransom require exact equivalence between Adam and Christ, and to whom is the ransom paid? Can God die, and did Jesus truly die?
 

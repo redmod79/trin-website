@@ -1,5 +1,3 @@
-# Verse-by-Verse Analysis: Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned against — or an impersonal divine power/force? Examine the Greek grammatical evidence, personal-action verbs attributed to the Spirit, sin-against-the-Spirit passages, and triadic formulas.
-
 ## Question
 Is the Holy Spirit a personal agent who thinks, wills, speaks, and can be sinned against — or an impersonal divine power/force? Examine the Greek grammatical evidence, personal-action verbs attributed to the Spirit, sin-against-the-Spirit passages, and triadic formulas.
 

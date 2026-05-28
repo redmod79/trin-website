@@ -1,5 +1,3 @@
-# Bible Study: When Jesus says 'the only true God' (John 17:3) and Paul says 'one God, the Father' (1 Corinthians 8:6), do these passages exclude Jesus from deity? Examine the full chapter context of John 17 and the Shema background of 1 Corinthians 8:6.
-
 ## Question
 When Jesus says 'the only true God' (John 17:3) and Paul says 'one God, the Father' (1 Corinthians 8:6), do these passages exclude Jesus from deity? Examine the full chapter context of John 17 and the Shema background of 1 Corinthians 8:6.
 

@@ -1,5 +1,3 @@
-# Verse-by-Verse Analysis: Does the New Testament itself — written 200+ years before the Council of Nicaea — teach the deity of Christ, or was this a 4th-century invention? Survey the Christological claims across the earliest NT documents and their dating.
-
 ## Question
 Does the New Testament itself — written 200+ years before the Council of Nicaea — teach the deity of Christ, or was this a 4th-century invention? Survey the Christological claims across the earliest NT documents and their dating.
 

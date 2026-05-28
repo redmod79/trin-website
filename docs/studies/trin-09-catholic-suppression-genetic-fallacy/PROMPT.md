@@ -1,5 +1,3 @@
-# EGW/Pioneer Study: Catholic Suppression, Protestant Retention, and the Genetic Fallacy
-
 ## Question
 Investigate the historical record of the Roman Catholic Church's suppression of Bible translation, persecution of theological dissenters, and enforcement of doctrine through political power. Then examine: did the Protestant Reformers who broke from Rome independently retain the deity of Christ? Were anti-Trinitarians also persecuted by Protestants? Does institutional enforcement tell us whether a doctrine is true or false?
 

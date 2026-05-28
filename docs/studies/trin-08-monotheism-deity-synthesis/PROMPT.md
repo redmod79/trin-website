@@ -1,5 +1,3 @@
-# Bible Study: How do the New Testament writers reconcile strict Old Testament monotheism ('YHWH alone is God') with attributing divine titles, worship, creation, and judgment to Jesus Christ? What does 'one God' mean in light of the NT's Christological claims? (Capstone synthesis of trin-01 through trin-07.)
-
 ## Question
 How do the New Testament writers reconcile strict Old Testament monotheism ('YHWH alone is God') with attributing divine titles, worship, creation, and judgment to Jesus Christ? What does 'one God' mean in light of the NT's Christological claims? (Capstone synthesis of trin-01 through trin-07.)
 

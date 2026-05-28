@@ -1,5 +1,3 @@
-# Analysis: Catholic Suppression, Protestant Retention, and the Genetic Fallacy
-
 ## Key Positions
 
 ### Position 1: The Roman Catholic Church systematically suppressed Bible translation and persecuted dissenters
