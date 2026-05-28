@@ -6,25 +6,25 @@ The four subordination passages (John 14:28, John 5:19, Mark 13:32, 1 Corinthian
 
 ## Key Verses
 
-> **Interpretive key: kenosis hymn** Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should 
+> **Interpretive key: kenosis hymn (Philippians 2:5)** Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should
 
-> **Son as brightness of glory and express image; 'better' (kreitton) than angels** Who being the brightness of [his] glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high; Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.
+> **Son as brightness of glory and express image; 'better' (kreitton) than angels (Hebrews 1:3)** Who being the brightness of [his] glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high; Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.
 
-> **Crux text: 'the Father is greater (meizon) than I'** Ye have heard how I said unto you, I go away, and come [again] unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.
+> **Crux text: 'the Father is greater (meizon) than I' (John 14:28)** Ye have heard how I said unto you, I go away, and come [again] unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.
 
-> **Crux text: 'neither the Son, but the Father'** But of that day and [that] hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
+> **Crux text: 'neither the Son, but the Father' (Mark 13:32)** But of that day and [that] hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
 
-> **Synoptic parallel: textual variant** But of that day and hour knoweth no [man], no, not the angels of heaven, but my Father only.
+> **Synoptic parallel: textual variant (Matthew 24:36)** But of that day and hour knoweth no [man], no, not the angels of heaven, but my Father only.
 
-> **Foundational prologue: 'the Word was God'** In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made.
+> **Foundational prologue: 'the Word was God' (John 1:1)** In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made.
 
-> **Pre-incarnation glory: 'the glory which I had with thee before the world was'** And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
+> **Pre-incarnation glory: 'the glory which I had with thee before the world was' (John 17:5)** And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
 
-> **Jewish opponents understood Jesus' claim as making himself equal (isos) with God** Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.
+> **Jewish opponents understood Jesus' claim as making himself equal (isos) with God (John 5:18)** Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.
 
-> **Resurrection power and 'I seek not my own will but the Father's will'** Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice, And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation. I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.
+> **Resurrection power and 'I seek not my own will but the Father's will' (John 5:28)** Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice, And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation. I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.
 
-> **Crux passage: eschatological subjection** Then [cometh] the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power. For he must reign, till he hath put all enemies under his feet. The last enemy [that] shall be destroyed [is] death. For he hath put all things under his feet. But when he saith, all things are put under [him, it is] manifest that he is excepted, which did put all things under him. And when all things shall be subdued unto him, then shall t
+> **Crux passage: eschatological subjection (1 Corinthians 15:24)** Then [cometh] the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power. For he must reign, till he hath put all enemies under his feet. The last enemy [that] shall be destroyed [is] death. For he hath put all things under his feet. But when he saith, all things are put under [him, it is] manifest that he is excepted, which did put all things under him. And when all things shall be subdued unto him, then shall t
 
 ## Analysis
 

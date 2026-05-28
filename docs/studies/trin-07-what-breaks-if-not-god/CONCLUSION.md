@@ -6,23 +6,23 @@ If Jesus is not God, six interlocking domains of biblical teaching collapse into
 
 ## Key Verses
 
-> **Angel Refuses Worship** And I fell at his feet to worship him. And he said unto me, See [thou do it] not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
+> **Angel Refuses Worship (Revelation 19:10)** And I fell at his feet to worship him. And he said unto me, See [thou do it] not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
 
-> **Disciples Worship Jesus After Walking on Water** Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.
+> **Disciples Worship Jesus After Walking on Water (Matthew 14:33)** Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.
 
-> **God Commands Angels to Worship the Son** And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
+> **God Commands Angels to Worship the Son (Hebrews 1:6)** And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
 
-> **God Commands Angels to Worship the Son (duplicate for Domain 12)** And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
+> **God Commands Angels to Worship the Son (duplicate for Domain 12) (Hebrews 1:6)** And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
 
-> **Thomas's Confession: 'My Lord and My God'** And Thomas answered and said unto him, My Lord and my God.
+> **Thomas's Confession: 'My Lord and My God' (John 20:28)** And Thomas answered and said unto him, My Lord and my God.
 
-> **The Son as Creator and Exact Representation of God's Being** Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds; Who being the brightness of [his] glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
+> **The Son as Creator and Exact Representation of God's Being (Hebrews 1:2)** Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds; Who being the brightness of [his] glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
 
-> **'The Great God and Our Saviour Jesus Christ'** Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
+> **'The Great God and Our Saviour Jesus Christ' (Titus 2:13)** Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
 
-> **Stephen Prays to Jesus While Dying** And they stoned Stephen, calling upon [God], and saying, Lord Jesus, receive my spirit.
+> **Stephen Prays to Jesus While Dying (Acts 7:59)** And they stoned Stephen, calling upon [God], and saying, Lord Jesus, receive my spirit.
 
-> **'Eternal Redemption' Through 'the Eternal Spirit'** Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption [for us]. For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
+> **'Eternal Redemption' Through 'the Eternal Spirit' (Hebrews 9:12)** Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption [for us]. For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
 
 > **Psalm 102:25-27** And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands: They shall perish; but thou remainest; and they all shall wax old as doth a garment; And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.
 

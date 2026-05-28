@@ -6,25 +6,25 @@ The New Testament itself, composed entirely between approximately 50 and 95 AD, 
 
 ## Key Verses
 
-> **Pre-Pauline Christ hymn** Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should 
+> **Pre-Pauline Christ hymn (Philippians 2:5)** Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should
 
-> **All fullness of theotes (deity itself) dwells in Christ bodily (c. 60 AD)** For in him dwelleth all the fulness of the Godhead bodily.
+> **All fullness of theotes (deity itself) dwells in Christ bodily (c. 60 AD) (Colossians 2:9)** For in him dwelleth all the fulness of the Godhead bodily.
 
-> **Christian Shema** But to us [there is but] one God, the Father, of whom [are] all things, and we in him; and one Lord Jesus Christ, by whom [are] all things, and we by him.
+> **Christian Shema (1 Corinthians 8:6)** But to us [there is but] one God, the Father, of whom [are] all things, and we in him; and one Lord Jesus Christ, by whom [are] all things, and we by him.
 
-> **Logos theology** In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made.
+> **Logos theology (John 1:1)** In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made.
 
-> **Alpha and Omega, Lord God Almighty** I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
+> **Alpha and Omega, Lord God Almighty (Revelation 1:8)** I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
 
-> **'This is the true God and eternal life'** And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, [even] in his Son Jesus Christ. This is the true God, and eternal life.
+> **'This is the true God and eternal life' (1 John 5:20)** And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, [even] in his Son Jesus Christ. This is the true God, and eternal life.
 
-> **Christ as 'God over all, blessed forever'** Whose [are] the fathers, and of whom as concerning the flesh Christ [came], who is over all, God blessed for ever. Amen.
+> **Christ as 'God over all, blessed forever' (Romans 9:5)** Whose [are] the fathers, and of whom as concerning the flesh Christ [came], who is over all, God blessed for ever. Amen.
 
-> **Systematic deity argument: heir, creator, radiance, express image, sustainer, purifier, enthroned (c. 60-70 AD)** God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds; Who being the brightness of [his] glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high; Being made so much better than the angels, as he ha
+> **Systematic deity argument: heir, creator, radiance, express image, sustainer, purifier, enthroned (c. 60-70 AD) (Hebrews 1:1)** God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds; Who being the brightness of [his] glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high; Being made so much better than the angels, as he ha
 
-> **Birth announcement** For unto you is born this day in the city of David a Saviour, which is Christ the Lord.
+> **Birth announcement (Luke 2:11)** For unto you is born this day in the city of David a Saviour, which is Christ the Lord.
 
-> **Thomas's confession: 'My Lord and my God'** And Thomas answered and said unto him, My Lord and my God.
+> **Thomas's confession: 'My Lord and my God' (John 20:28)** And Thomas answered and said unto him, My Lord and my God.
 
 ## Analysis
 

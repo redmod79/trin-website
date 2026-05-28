@@ -6,25 +6,25 @@ The biblical evidence overwhelmingly supports the Holy Spirit as a personal agen
 
 ## Key Verses
 
-> **Spirit intercedes and has phronema (mind)** Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered. And he that searcheth the hearts knoweth what [is] the mind of the Spirit, because he maketh intercession for the saints according to [the will of] God.
+> **Spirit intercedes and has phronema (mind) (Romans 8:26)** Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered. And he that searcheth the hearts knoweth what [is] the mind of the Spirit, because he maketh intercession for the saints according to [the will of] God.
 
-> **Ekeinos (masculine) for the Spirit** But the Comforter, [which is] the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
+> **Ekeinos (masculine) for the Spirit (John 14:26)** But the Comforter, [which is] the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
 
-> **Spirit of truth testifies** But when the Comforter is come, whom I will send unto you from the Father, [even] the Spirit of truth, which proceedeth from the Father, he shall testify of me: And ye also shall bear witness, because ye have been with me from the beginning.
+> **Spirit of truth testifies (John 15:26)** But when the Comforter is come, whom I will send unto you from the Father, [even] the Spirit of truth, which proceedeth from the Father, he shall testify of me: And ye also shall bear witness, because ye have been with me from the beginning.
 
-> **Spirit searches and knows** But God hath revealed [them] unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God. For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.
+> **Spirit searches and knows (1 Corinthians 2:10)** But God hath revealed [them] unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God. For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.
 
-> **Spirit distributes gifts as he wills** But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
+> **Spirit distributes gifts as he wills (1 Corinthians 12:11)** But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
 
-> **Blasphemy against the Spirit** Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy [against] the [Holy] Ghost shall not be forgiven unto men. And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the [world] to come.
+> **Blasphemy against the Spirit (Matthew 12:31)** Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy [against] the [Holy] Ghost shall not be forgiven unto men. And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the [world] to come.
 
-> **They vexed his Holy Spirit** But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, [and] he fought against them.
+> **They vexed his Holy Spirit (Isaiah 63:10)** But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, [and] he fought against them.
 
-> **Allos parakletos** And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; [Even] the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
+> **Allos parakletos (John 14:16)** And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; [Even] the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
 
-> **Six personal verbs with ekeinos** Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, [that] shall he speak: and he will shew you things to come. He shall glorify me: for he shall receive of mine, and shall shew [it] unto you. All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew [it] unto you.
+> **Six personal verbs with ekeinos (John 16:13)** Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, [that] shall he speak: and he will shew you things to come. He shall glorify me: for he shall receive of mine, and shall shew [it] unto you. All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew [it] unto you.
 
-> **Spirit uses first-person 'I'** While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee. Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.
+> **Spirit uses first-person 'I' (Acts 10:19)** While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee. Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.
 
 ## Analysis
 

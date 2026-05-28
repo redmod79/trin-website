@@ -2,23 +2,22 @@
 
 ## A Plain-English Summary
 
-Four passages in the New Testament seem to say that Jesus is less than God the Father:
-he says the Father is "greater," he says he "can do nothing" on his own, he admits he
-doesn't know when the end will come, and Paul says he will one day "be made subject" to
-the Father. But when you look at each passage in its full context, a consistent picture
-emerges: these statements describe what Jesus accepted during his earthly mission, not
-what he is for all eternity. Every one of them is surrounded by some of the strongest
-claims to full deity in the entire Bible.
+Four passages in the New Testament seem to say that Jesus is less than God the Father: he
+says the Father is "greater," he says he "can do nothing" on his own, he admits he doesn't
+know when the end will come, and Paul says he will one day "be made subject" to the Father.
+But when you look at each passage in its full context, a consistent picture emerges: these
+statements describe what Jesus accepted during his earthly mission, not what he is for all
+eternity. Every one of them is surrounded by some of the strongest claims to full deity in
+the entire Bible.
 
 ### The Key Word Tells the Story
 
 When Jesus says "my Father is greater than I" in John 14:28, the Greek word he uses is
 *meizon* (meaning "greater in rank or position"). There was another word available --
-*kreitton* (meaning "greater in nature or quality") -- and the New Testament never uses
-it for the Father-Son relationship.
-
-It does use *kreitton* to say Christ is better than angels in Hebrews 1:4, where a real
-nature-difference is the point. Jesus is comparing positions, not natures.
+*kreitton* (meaning "greater in nature or quality") -- and the New Testament never uses it
+for the Father-Son relationship. It does use *kreitton* to say Christ is better than
+angels in Hebrews 1:4, where a real nature-difference is the point. Jesus is comparing
+positions, not natures.
 
 Just 16 verses earlier in the same chapter, he uses the exact same word when he says
 the disciples will do "greater works" than he did (John 14:12). Nobody reads that as the
@@ -52,9 +51,8 @@ ignorance was real. Jesus genuinely did not know.
 
 But this is the same Jesus who "knew all men" and "knew what was in man" (John 2:24-25),
 who predicted specific events, and whose disciples said, "Now we know that you know all
-things" (John 16:30).
-
-That selective ignorance -- knowing human hearts but not a specific date -- points to a
+things" (John 16:30). That selective ignorance -- knowing human hearts but not a specific
+date -- points to a
 voluntary, bounded limitation during the incarnation, not a permanent gap. After the
 resurrection, Jesus claims "all power in heaven and in earth" (Matthew 28:18). The
 limitation was real, and then it was removed.
@@ -111,14 +109,12 @@ after it in the final picture.
 
 There is one question this evidence raises but does not fully settle. John 5:26 says the
 Father "gave" the Son to have life in himself. That word "gave" implies some kind of
-ordering -- the Father as source, the Son as derived.
-
-But the text insists the result is identical: the Son possesses the same self-existent
+ordering -- the Father as source, the Son as derived. But the text insists the result is
+identical: the Son possesses the same self-existent
 life the Father has. Whatever the eternal Father-Son relationship involves, it does not
 involve the kind of subordination described in these four passages. Those belong to the
 incarnation. Whether there is a non-hierarchical ordering within the eternal Godhead -- an
-asymmetry of origin that does not imply inferiority -- is a question honest interpretation
-must leave open.
+asymmetry of origin that does not imply inferiority -- is a question honest interpretation must leave open.
 
 ---
 *Simplified from the full study: trin-02-subordination-passages*

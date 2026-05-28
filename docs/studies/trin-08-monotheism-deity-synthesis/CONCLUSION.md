@@ -6,25 +6,25 @@ The New Testament writers reconcile strict OT monotheism with Christ's deity not
 
 ## Key Verses
 
-> **The Word was God** In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made.
+> **The Word was God (John 1:1)** In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made.
 
-> **Shema reformulated: one God (Father) + one Lord (Christ)** But to us [there is but] one God, the Father, of whom [are] all things, and we in him; and one Lord Jesus Christ, by whom [are] all things, and we by him.
+> **Shema reformulated: one God (Father) + one Lord (Christ) (1 Corinthians 8:6)** But to us [there is but] one God, the Father, of whom [are] all things, and we in him; and one Lord Jesus Christ, by whom [are] all things, and we by him.
 
 > **The kenosis hymn: morphe theou, self-emptying, and the Isa 45:23 climax** Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should 
 
-> **Son as radiance of glory and exact imprint of God's substance** God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds; Who being the brightness of [his] glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high; Being made so much better than the angels, as he ha
+> **Son as radiance of glory and exact imprint of God's substance (Hebrews 1:1)** God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds; Who being the brightness of [his] glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high; Being made so much better than the angels, as he ha
 
-> **The only-begotten God who declares the Father** No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared [him].
+> **The only-begotten God who declares the Father (John 1:18)** No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared [him].
 
-> **Monos alethinos theos** And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
+> **Monos alethinos theos (John 17:3)** And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
 
-> **Theotētos** For in him dwelleth all the fulness of the Godhead bodily.
+> **Theotētos (Colossians 2:9)** For in him dwelleth all the fulness of the Godhead bodily.
 
 > **Psa 45:6-7** But unto the Son [he saith], Thy throne, O God, [is] for ever and ever: a sceptre of righteousness [is] the sceptre of thy kingdom. Thou hast loved righteousness, and hated iniquity; therefore God, [even] thy God, hath anointed thee with the oil of gladness above thy fellows. And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands: They shall perish; but thou remainest; and they all shall wax old as doth a garment; And as a vesture sh
 
-> **Singular onoma governing three persons: Father, Son, Holy Spirit** Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+> **Singular onoma governing three persons: Father, Son, Holy Spirit (Matthew 28:19)** Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
 
-> **Granville Sharp Rule: 'our great God and Savior Jesus Christ'** Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
+> **Granville Sharp Rule: 'our great God and Savior Jesus Christ' (Titus 2:13)** Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
 
 ## Analysis
 

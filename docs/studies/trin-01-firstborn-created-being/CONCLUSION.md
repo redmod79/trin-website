@@ -6,25 +6,25 @@ The phrase 'firstborn of all creation' (prototokos pases ktiseos) in Colossians 
 
 ## Key Verses
 
-> **The letter to Laodicea** Revelation 3:14	And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God;
+> **The letter to Laodicea (Revelation 3:14)** And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God;
 
-> **Christ as 'first begotten of the dead' and 'prince of the kings'** Revelation 1:5	And from Jesus Christ, [who is] the faithful witness, [and] the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
+> **Christ as 'first begotten of the dead' and 'prince of the kings' (Revelation 1:5)** And from Jesus Christ, [who is] the faithful witness, [and] the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
 
-> **The Word as agent of all creation** John 1:1	In the beginning was the Word, and the Word was with God, and the Word was God.
+> **The Word as agent of all creation (John 1:1)** In the beginning was the Word, and the Word was with God, and the Word was God.
 
-> **Causal hoti clause** Colossians 1:16	For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether [they be] thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
+> **Causal hoti clause (Colossians 1:16)** For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether [they be] thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 
-> **The Word became flesh** John 1:14	And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+> **The Word became flesh (John 1:14)** And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
 
-> **One God the Father, one Lord Jesus Christ** 1 Corinthians 8:6	But to us [there is but] one God, the Father, of whom [are] all things, and we in him; and one Lord Jesus Christ, by whom [are] all things, and we by him.
+> **One God the Father, one Lord Jesus Christ (1 Corinthians 8:6)** But to us [there is but] one God, the Father, of whom [are] all things, and we in him; and one Lord Jesus Christ, by whom [are] all things, and we by him.
 
-> **Christ as heir, creation agent, and express image of God's person** Hebrews 1:2	Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds;
+> **Christ as heir, creation agent, and express image of God's person (Hebrews 1:2)** Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds;
 
-> **Firstborn among many brethren** Romans 8:29	For whom he did foreknow, he also did predestinate [to be] conformed to the image of his Son, that he might be the firstborn among many brethren.
+> **Firstborn among many brethren (Romans 8:29)** For whom he did foreknow, he also did predestinate [to be] conformed to the image of his Son, that he might be the firstborn among many brethren.
 
-> **Wisdom personified** Proverbs 8:22	The LORD possessed me in the beginning of his way, before his works of old.
+> **Wisdom personified (Proverbs 8:22)** The LORD possessed me in the beginning of his way, before his works of old.
 
-> **God makes David 'firstborn'** Psalm 89:27	Also I will make him [my] firstborn, higher than the kings of the earth.
+> **God makes David 'firstborn' (Psalm 89:27)** Also I will make him [my] firstborn, higher than the kings of the earth.
 
 ## Analysis
 

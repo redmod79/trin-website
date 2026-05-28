@@ -6,25 +6,25 @@ Jesus is not denying his deity in either Mark 10:18 or John 20:17. In Mark 10:18
 
 ## Key Verses
 
-> **Second crux text: 'My Father and your Father, my God and your God'** Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and [to] my God, and your God.
+> **Second crux text: 'My Father and your Father, my God and your God' (John 20:17)** Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and [to] my God, and your God.
 
-> **Hebrew source: Two-elohim pattern** Thy throne, O God, [is] for ever and ever: the sceptre of thy kingdom [is] a right sceptre. Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.
+> **Hebrew source: Two-elohim pattern (Psalm 45:6)** Thy throne, O God, [is] for ever and ever: the sceptre of thy kingdom [is] a right sceptre. Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.
 
 > **YHWH psalm applied to the Son in Hebrews 1:10-12** Of old hast thou laid the foundation of the earth: and the heavens [are] the work of thy hands. They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed: But thou [art] the same, and thy years shall have no end.
 
-> **Glorified Christ's fourfold 'my God'** Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, [which is] new Jerusalem, which cometh down out of heaven from my God: and [I will write upon him] my new name.
+> **Glorified Christ's fourfold 'my God' (Revelation 3:12)** Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, [which is] new Jerusalem, which cometh down out of heaven from my God: and [I will write upon him] my new name.
 
 > **'My God, my God' cry combined with deity claims in same psalm** My God, my God, why hast thou forsaken me? [why art thou so] far from helping me, [and from] the words of my roaring? O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent. But thou [art] holy, [O thou] that inhabitest the praises of Israel. Our fathers trusted in thee: they trusted, and thou didst deliver them. They cried unto thee, and were delivered: they trusted in thee, and were not confounded. But I [am] a worm, and no man; a reproach of men, and 
 
 > **Cross cry: Jesus quotes Psalm 22:1 'My God, my God'** And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?
 
-> **'None righteous, none that doeth good'** As it is written, There is none righteous, no, not one: There is none that understandeth, there is none that seeketh after God. They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.
+> **'None righteous, none that doeth good' (Romans 3:10)** As it is written, There is none righteous, no, not one: There is none that understandeth, there is none that seeketh after God. They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.
 
 > **OT source of 'none good'** The fool hath said in his heart, [There is] no God. They are corrupt, they have done abominable works, [there is] none that doeth good. The LORD looked down from heaven upon the children of men, to see if there were any that did understand, [and] seek God. They are all gone aside, they are [all] together become filthy: [there is] none that doeth good, no, not one.
 
-> **Kenosis hymn** Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should 
+> **Kenosis hymn (Philippians 2:5)** Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should
 
-> **Primary crux text: Rich young ruler and the goodness question** And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life? And Jesus said unto him, Why callest thou me good? [there is] none good but one, [that is], God. Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother. And he answered and said unto him, Master, all these have I observed from my youth. Then 
+> **Primary crux text: Rich young ruler and the goodness question (Mark 10:17)** And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life? And Jesus said unto him, Why callest thou me good? [there is] none good but one, [that is], God. Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother. And he answered and said unto him, Master, all these have I observed from my youth. Then
 
 ## Analysis
 

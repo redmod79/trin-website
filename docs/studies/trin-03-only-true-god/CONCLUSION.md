@@ -6,25 +6,25 @@ Neither John 17:3 nor 1 Corinthians 8:6 excludes Jesus from deity. John 17:3's '
 
 ## Key Verses
 
-> **Isolated crux text** John 17:3	And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
+> **Isolated crux text (John 17:3)** And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
 
-> **'This is the true God and eternal life'** 1 John 5:20	And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, [even] in his Son Jesus Christ. This is the true God, and eternal life.
+> **'This is the true God and eternal life' (1 John 5:20)** And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, [even] in his Son Jesus Christ. This is the true God, and eternal life.
 
-> **The Johannine prologue** John 1:1	In the beginning was the Word, and the Word was with God, and the Word was God.
+> **The Johannine prologue (John 1:1)** In the beginning was the Word, and the Word was with God, and the Word was God.
 
-> **Paul calling Christ theos** Romans 9:5	Whose [are] the fathers, and of whom as concerning the flesh Christ [came], who is over all, God blessed for ever. Amen.
+> **Paul calling Christ theos (Romans 9:5)** Whose [are] the fathers, and of whom as concerning the flesh Christ [came], who is over all, God blessed for ever. Amen.
 
-> **Paul's Christological reformulation of the Shema** 1 Corinthians 8:4	As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol [is] nothing in the world, and that [there is] none other God but one.
+> **Paul's Christological reformulation of the Shema (1 Corinthians 8:4)** As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol [is] nothing in the world, and that [there is] none other God but one.
 
-> **Granville Sharp rule** Titus 2:13	Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
+> **Granville Sharp rule (Titus 2:13)** Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
 
-> **Psalm 102:25-27** Hebrews 1:10	And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:
+> **Psalm 102:25-27** And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:
 
-> **Absolute ego eimi** John 8:58	Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
+> **Absolute ego eimi (John 8:58)** Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
 
-> **Thomas's confession** John 20:28	And Thomas answered and said unto him, My Lord and my God.
+> **Thomas's confession (John 20:28)** And Thomas answered and said unto him, My Lord and my God.
 
-> **Parallel Granville Sharp construction** 2 Peter 1:1	Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
+> **Parallel Granville Sharp construction (2 Peter 1:1)** Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
 
 ## Analysis
 
