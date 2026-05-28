@@ -1,5 +1,3 @@
-# When Jesus says 'Why do you call me good? No one is good except God alone' (Mark 10:18) and 'I ascend to my Father and your Father, to my God and your God' (John 20:17), is he denying his own deity?
-
 ## Question
 When Jesus says 'Why do you call me good? No one is good except God alone' (Mark 10:18) and 'I ascend to my Father and your Father, to my God and your God' (John 20:17), is he denying his own deity?
 

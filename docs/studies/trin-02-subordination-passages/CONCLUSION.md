@@ -1,5 +1,3 @@
-# What do John 14:28 ('the Father is greater than I'), John 5:19 ('the Son can do nothing by himself'), Mark 13:32 (the Son does not know the day or hour), and 1 Corinthians 15:28 ('the Son himself will be made subject') teach about the relationship between the Father and the Son? Do these passages describe Jesus' eternal nature or his voluntary mission?
-
 ## Question
 What do John 14:28 ('the Father is greater than I'), John 5:19 ('the Son can do nothing by himself'), Mark 13:32 (the Son does not know the day or hour), and 1 Corinthians 15:28 ('the Son himself will be made subject') teach about the relationship between the Father and the Son? Do these passages describe Jesus' eternal nature or his voluntary mission?
 

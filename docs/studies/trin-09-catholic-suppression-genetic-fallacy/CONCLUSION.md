@@ -1,5 +1,3 @@
-# Catholic Suppression, Protestant Retention, and the Genetic Fallacy
-
 ## Question
 Did the Roman Catholic Church suppress the Bible and persecute dissenters? Yes. Does that suppression prove the Trinity is a Catholic invention that should be rejected? No — and the historical evidence proves why not.
 
