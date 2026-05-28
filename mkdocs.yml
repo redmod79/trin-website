@@ -71,6 +71,8 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Methodology: methodology.md
+  - "Research Tools & Process": tools.md
   - Studies:
 
     # ── Part 1: Answering the Disputed Verses ──
